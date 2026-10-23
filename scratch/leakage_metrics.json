@@ -1,0 +1,47 @@
+{
+  "TEST_A": {
+    "name": "K+10 Delivery Perturbation",
+    "max_diff": 0.0,
+    "passed": true
+  },
+  "TEST_B": {
+    "name": "Future Over Perturbation",
+    "max_diff": 0.0,
+    "passed": true
+  },
+  "TEST_C": {
+    "name": "Winner Metadata Perturbation",
+    "passed": true
+  },
+  "TEST_D": {
+    "name": "Future Player Deliveries Isolation",
+    "passed": true
+  },
+  "TEST_E": {
+    "name": "Current Delivery Temporal Causality",
+    "max_diff_pre": 0.0,
+    "response_at_event": 0.0040000000000000036,
+    "passed": true
+  },
+  "MATCHUP_SHRINKAGE": {
+    "passed": true,
+    "zero_prior": {
+      "matchup_balls_prior": 0,
+      "matchup_runs_prior": 0,
+      "matchup_wickets_prior": 0,
+      "matchup_strike_rate_shrunk": 140.0
+    },
+    "small_history": {
+      "matchup_balls_prior": 6,
+      "matchup_runs_prior": 12,
+      "matchup_wickets_prior": 0,
+      "matchup_strike_rate_shrunk": 152.0
+    },
+    "large_history": {
+      "matchup_balls_prior": 60,
+      "matchup_runs_prior": 120,
+      "matchup_wickets_prior": 0,
+      "matchup_strike_rate_shrunk": 182.86
+    }
+  }
+}

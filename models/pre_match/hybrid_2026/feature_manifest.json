@@ -1,0 +1,43 @@
+{
+  "d1_features": [
+    "team_a_form_last_5",
+    "team_b_form_last_5",
+    "form_diff_last_5",
+    "team_a_batting_rpo_last_5",
+    "team_b_batting_rpo_last_5",
+    "batting_rpo_diff_last_5",
+    "team_a_bowling_econ_last_5",
+    "team_b_bowling_econ_last_5",
+    "bowling_econ_diff_last_5"
+  ],
+  "baseline_features": [
+    "team_a",
+    "team_b",
+    "venue",
+    "city",
+    "toss_winner_is_team_a",
+    "toss_decision_is_bat",
+    "team_a_bats_first",
+    "team_a_form_last_5",
+    "team_b_form_last_5",
+    "team_a_form_last_10",
+    "team_b_form_last_10",
+    "form_diff_last_5",
+    "team_a_matches_played",
+    "team_b_matches_played",
+    "h2h_matches_played",
+    "team_a_h2h_win_rate",
+    "team_a_venue_matches",
+    "team_a_venue_win_rate",
+    "team_b_venue_matches",
+    "team_b_venue_win_rate",
+    "venue_win_rate_diff",
+    "venue_chasing_win_rate",
+    "team_a_batting_rpo_last_5",
+    "team_b_batting_rpo_last_5",
+    "batting_rpo_diff_last_5",
+    "team_a_bowling_econ_last_5",
+    "team_b_bowling_econ_last_5",
+    "bowling_econ_diff_last_5"
+  ]
+}

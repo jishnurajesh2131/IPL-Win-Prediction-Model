@@ -1,0 +1,41 @@
+[
+  {
+    "model": "Baseline RF v1",
+    "test_accuracy": 0.5628,
+    "test_log_loss": 0.6967,
+    "test_brier": 0.2515,
+    "test_ece": 0.0394,
+    "test_auc": 0.4969,
+    "test_std": 0.0604,
+    "test_min": 0.3163,
+    "test_max": 0.658,
+    "pct_gt_60": 1.86,
+    "pct_lt_40": 43.26
+  },
+  {
+    "model": "Model D1 (Core Dynamic)",
+    "test_accuracy": 0.4837,
+    "test_log_loss": 0.6974,
+    "test_brier": 0.252,
+    "test_ece": 0.0651,
+    "test_auc": 0.5108,
+    "test_std": 0.063,
+    "test_min": 0.3235,
+    "test_max": 0.6393,
+    "pct_gt_60": 4.65,
+    "pct_lt_40": 9.77
+  },
+  {
+    "model": "Selected Hybrid (w=0.70)",
+    "test_accuracy": 0.4837,
+    "test_log_loss": 0.6917,
+    "test_brier": 0.2493,
+    "test_ece": 0.0747,
+    "test_auc": 0.5085,
+    "test_std": 0.0493,
+    "test_min": 0.3448,
+    "test_max": 0.58,
+    "pct_gt_60": 0.0,
+    "pct_lt_40": 9.3
+  }
+]

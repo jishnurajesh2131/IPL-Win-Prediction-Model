@@ -1,0 +1,18 @@
+{
+  "weight_d1": 0.7,
+  "weight_base": 0.3,
+  "accuracy": 0.5146,
+  "log_loss": 0.6927,
+  "brier": 0.2498,
+  "ece": 0.0266,
+  "auc": 0.5267,
+  "mean_p": 0.5034,
+  "std_p": 0.0532,
+  "min_p": 0.3541,
+  "max_p": 0.6791,
+  "pct_outside_45_55": 30.79,
+  "pct_gt_60": 3.6,
+  "pct_gt_70": 0.0,
+  "pct_lt_40": 2.92,
+  "pct_lt_30": 0.0
+}

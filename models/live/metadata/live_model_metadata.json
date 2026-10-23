@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-09-05 17:40:52",
+  "dataset_path": "data/processed/live_dataset.csv",
+  "dataset_sha256": "83b4a7bd362d873ae38c1b8c2737ff3054ea9e31a0019685448ca81c39c895df",
+  "python_version": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "split_summary": {
+    "total_dataset_rows": 290598,
+    "total_dataset_matches": 1211,
+    "terminal_rows_isolated": 1199,
+    "active_rows": 289399,
+    "train_rows": 203458,
+    "train_matches": 853,
+    "train_team_a_win_pct": 50.66,
+    "val_rows": 35074,
+    "val_matches": 145,
+    "val_team_a_win_pct": 53.45,
+    "test_rows": 50867,
+    "test_matches": 213,
+    "test_team_a_win_pct": 46.34
+  },
+  "winning_configuration": {
+    "architecture": "Two-Model (Innings 1 + Innings 2)",
+    "feature_set": "D",
+    "algorithm": "xgboost",
+    "feature_count_raw": 54,
+    "val_log_loss": 0.6197,
+    "val_brier": 0.218,
+    "val_ece": 0.0307,
+    "test_log_loss": 0.5735,
+    "test_brier": 0.1967,
+    "test_ece": 0.0649,
+    "test_accuracy": 0.6829,
+    "test_roc_auc": 0.7742
+  }
+}

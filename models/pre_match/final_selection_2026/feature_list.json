@@ -1,0 +1,11 @@
+[
+  "team_a_form_last_5",
+  "team_b_form_last_5",
+  "form_diff_last_5",
+  "team_a_batting_rpo_last_5",
+  "team_b_batting_rpo_last_5",
+  "batting_rpo_diff_last_5",
+  "team_a_bowling_econ_last_5",
+  "team_b_bowling_econ_last_5",
+  "bowling_econ_diff_last_5"
+]

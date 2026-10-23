@@ -1,0 +1,14 @@
+{
+  "1426274": {
+    "events": 254,
+    "max_diff_1_2": 0.0,
+    "max_diff_1_3": 0.0,
+    "deterministic": true
+  },
+  "501228": {
+    "events": 248,
+    "max_diff_1_2": 0.0,
+    "max_diff_1_3": 0.0,
+    "deterministic": true
+  }
+}

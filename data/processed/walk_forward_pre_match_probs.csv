@@ -1,0 +1,1235 @@
+match_id,season,date,team_a,team_b,target_team_a_win,pre_match_prob_team_a,cold_start_flag,historical_training_match_count,earliest_training_match,latest_training_match
+335982,2007/08,2008/04/18,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.5,1,0,,
+335983,2007/08,2008/04/19,Punjab Kings,Chennai Super Kings,0,0.5,1,0,,
+335984,2007/08,2008/04/19,Delhi Capitals,Rajasthan Royals,1,0.5,1,0,,
+335985,2007/08,2008/04/20,Mumbai Indians,Royal Challengers Bengaluru,0,0.5,1,0,,
+335986,2007/08,2008/04/20,Kolkata Knight Riders,Deccan Chargers,1,0.5,1,0,,
+335987,2007/08,2008/04/21,Rajasthan Royals,Punjab Kings,1,0.5,1,0,,
+335988,2007/08,2008/04/22,Deccan Chargers,Delhi Capitals,0,0.5,1,0,,
+335989,2007/08,2008/04/23,Chennai Super Kings,Mumbai Indians,1,0.5,1,0,,
+335990,2007/08,2008/04/24,Deccan Chargers,Rajasthan Royals,0,0.5,1,0,,
+335991,2007/08,2008/04/25,Punjab Kings,Mumbai Indians,1,0.5,1,0,,
+335992,2007/08,2008/04/26,Royal Challengers Bengaluru,Rajasthan Royals,0,0.5,1,0,,
+335993,2007/08,2008/04/26,Chennai Super Kings,Kolkata Knight Riders,1,0.5,1,0,,
+335994,2007/08,2008/04/27,Mumbai Indians,Deccan Chargers,0,0.5,1,0,,
+335995,2007/08,2008/04/27,Punjab Kings,Delhi Capitals,1,0.5,1,0,,
+335996,2007/08,2008/04/28,Royal Challengers Bengaluru,Chennai Super Kings,0,0.5,1,0,,
+335997,2007/08,2008/04/29,Kolkata Knight Riders,Mumbai Indians,0,0.5,1,0,,
+335998,2007/08,2008/04/30,Delhi Capitals,Royal Challengers Bengaluru,1,0.5,1,0,,
+335999,2007/08,2008/05/01,Deccan Chargers,Punjab Kings,0,0.5,1,0,,
+336000,2007/08,2008/05/01,Rajasthan Royals,Kolkata Knight Riders,1,0.5,1,0,,
+336001,2007/08,2008/05/02,Chennai Super Kings,Delhi Capitals,0,0.5,1,0,,
+336003,2007/08,2008/05/03,Punjab Kings,Kolkata Knight Riders,1,0.5,1,0,,
+336034,2007/08,2008/05/03,Royal Challengers Bengaluru,Deccan Chargers,1,0.5,1,0,,
+336004,2007/08,2008/05/04,Mumbai Indians,Delhi Capitals,1,0.5,1,0,,
+336005,2007/08,2008/05/04,Rajasthan Royals,Chennai Super Kings,1,0.5,1,0,,
+336006,2007/08,2008/05/05,Royal Challengers Bengaluru,Punjab Kings,0,0.5,1,0,,
+336007,2007/08,2008/05/06,Chennai Super Kings,Deccan Chargers,0,0.5,1,0,,
+336008,2007/08,2008/05/07,Mumbai Indians,Rajasthan Royals,1,0.5,1,0,,
+336009,2007/08,2008/05/08,Delhi Capitals,Chennai Super Kings,0,0.5,1,0,,
+336010,2007/08,2008/05/08,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.5,1,0,,
+336011,2007/08,2008/05/09,Rajasthan Royals,Deccan Chargers,1,0.5,1,0,,
+336013,2007/08,2008/05/10,Chennai Super Kings,Punjab Kings,1,0.5,1,0,,
+336014,2007/08,2008/05/11,Deccan Chargers,Kolkata Knight Riders,0,0.5,1,0,,
+336015,2007/08,2008/05/11,Rajasthan Royals,Delhi Capitals,1,0.5,1,0,,
+336016,2007/08,2008/05/12,Punjab Kings,Royal Challengers Bengaluru,1,0.5,1,0,,
+336017,2007/08,2008/05/13,Kolkata Knight Riders,Delhi Capitals,1,0.5,1,0,,
+336018,2007/08,2008/05/14,Mumbai Indians,Chennai Super Kings,1,0.5,1,0,,
+336020,2007/08,2008/05/15,Delhi Capitals,Deccan Chargers,1,0.5,1,0,,
+336021,2007/08,2008/05/16,Mumbai Indians,Kolkata Knight Riders,1,0.5,1,0,,
+336022,2007/08,2008/05/17,Delhi Capitals,Punjab Kings,0,0.5,1,0,,
+336023,2007/08,2008/05/17,Rajasthan Royals,Royal Challengers Bengaluru,1,0.5,1,0,,
+336024,2007/08,2008/05/18,Deccan Chargers,Mumbai Indians,0,0.6274,0,40,335982,336023
+336025,2007/08,2008/05/18,Kolkata Knight Riders,Chennai Super Kings,0,0.6061,0,41,335982,336024
+336026,2007/08,2008/05/19,Royal Challengers Bengaluru,Delhi Capitals,0,0.5061,0,42,335982,336025
+336027,2007/08,2008/05/20,Kolkata Knight Riders,Rajasthan Royals,0,0.508,0,43,335982,336026
+336028,2007/08,2008/05/21,Mumbai Indians,Punjab Kings,0,0.6256,0,44,335982,336027
+336029,2007/08,2008/05/21,Chennai Super Kings,Royal Challengers Bengaluru,0,0.5814,0,45,335982,336028
+336031,2007/08,2008/05/23,Punjab Kings,Deccan Chargers,1,0.4973,0,46,335982,336029
+336032,2007/08,2008/05/24,Delhi Capitals,Mumbai Indians,1,0.4511,0,47,335982,336031
+336033,2007/08,2008/05/24,Chennai Super Kings,Rajasthan Royals,0,0.395,0,48,335982,336032
+336002,2007/08,2008/05/25,Deccan Chargers,Royal Challengers Bengaluru,0,0.4025,0,49,335982,336033
+336035,2007/08,2008/05/25,Kolkata Knight Riders,Punjab Kings,1,0.4391,0,50,335982,336002
+336036,2007/08,2008/05/26,Rajasthan Royals,Mumbai Indians,1,0.7584,0,51,335982,336035
+336037,2007/08,2008/05/27,Deccan Chargers,Chennai Super Kings,0,0.3138,0,52,335982,336036
+336012,2007/08,2008/05/28,Royal Challengers Bengaluru,Mumbai Indians,0,0.3211,0,53,335982,336037
+336019,2007/08,2008/05/28,Punjab Kings,Rajasthan Royals,1,0.5164,0,54,335982,336012
+336038,2007/08,2008/05/30,Delhi Capitals,Rajasthan Royals,0,0.5356,0,55,335982,336019
+336039,2007/08,2008/05/31,Chennai Super Kings,Punjab Kings,1,0.5411,0,56,335982,336038
+336040,2007/08,2008/06/01,Chennai Super Kings,Rajasthan Royals,0,0.4434,0,57,335982,336039
+392181,2009,2009/04/18,Chennai Super Kings,Mumbai Indians,0,0.4607,0,58,335982,336040
+392182,2009,2009/04/18,Royal Challengers Bengaluru,Rajasthan Royals,1,0.3232,0,59,335982,392181
+392183,2009,2009/04/19,Delhi Capitals,Punjab Kings,1,0.3391,0,60,335982,392182
+392184,2009,2009/04/19,Deccan Chargers,Kolkata Knight Riders,1,0.3314,0,61,335982,392183
+392185,2009,2009/04/20,Royal Challengers Bengaluru,Chennai Super Kings,0,0.4372,0,62,335982,392184
+392186,2009,2009/04/21,Punjab Kings,Kolkata Knight Riders,0,0.4336,0,63,335982,392185
+392188,2009,2009/04/22,Royal Challengers Bengaluru,Deccan Chargers,0,0.3718,0,64,335982,392186
+392189,2009,2009/04/23,Chennai Super Kings,Delhi Capitals,0,0.288,0,65,335982,392188
+392190,2009,2009/04/23,Kolkata Knight Riders,Rajasthan Royals,0,0.3908,0,66,335982,392189
+392191,2009,2009/04/24,Royal Challengers Bengaluru,Punjab Kings,0,0.2887,0,67,335982,392190
+392192,2009,2009/04/25,Deccan Chargers,Mumbai Indians,1,0.2551,0,68,335982,392191
+392194,2009,2009/04/26,Royal Challengers Bengaluru,Delhi Capitals,0,0.3102,0,69,335982,392192
+392195,2009,2009/04/26,Punjab Kings,Rajasthan Royals,1,0.4144,0,70,335982,392194
+392196,2009,2009/04/27,Chennai Super Kings,Deccan Chargers,0,0.3595,0,71,335982,392195
+392197,2009,2009/04/27,Kolkata Knight Riders,Mumbai Indians,0,0.297,0,72,335982,392196
+392198,2009,2009/04/28,Delhi Capitals,Rajasthan Royals,0,0.4925,0,73,335982,392197
+392199,2009,2009/04/29,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.2532,0,74,335982,392198
+392200,2009,2009/04/29,Punjab Kings,Mumbai Indians,1,0.3385,0,75,335982,392199
+392201,2009,2009/04/30,Deccan Chargers,Delhi Capitals,0,0.3723,0,76,335982,392200
+392202,2009,2009/04/30,Chennai Super Kings,Rajasthan Royals,1,0.4258,0,77,335982,392201
+392203,2009,2009/05/01,Kolkata Knight Riders,Mumbai Indians,0,0.4136,0,78,335982,392202
+392204,2009,2009/05/01,Royal Challengers Bengaluru,Punjab Kings,1,0.3921,0,79,335982,392203
+392205,2009,2009/05/02,Deccan Chargers,Rajasthan Royals,0,0.4164,0,80,335982,392204
+392206,2009,2009/05/02,Chennai Super Kings,Delhi Capitals,1,0.3468,0,81,335982,392205
+392207,2009,2009/05/03,Punjab Kings,Kolkata Knight Riders,1,0.3614,0,82,335982,392206
+392208,2009,2009/05/03,Royal Challengers Bengaluru,Mumbai Indians,1,0.4111,0,83,335982,392207
+392209,2009,2009/05/04,Chennai Super Kings,Deccan Chargers,1,0.5262,0,84,335982,392208
+392210,2009,2009/05/05,Punjab Kings,Rajasthan Royals,0,0.4785,0,85,335982,392209
+392211,2009,2009/05/05,Delhi Capitals,Kolkata Knight Riders,1,0.577,0,86,335982,392210
+392212,2009,2009/05/06,Deccan Chargers,Mumbai Indians,1,0.5622,0,87,335982,392211
+392213,2009,2009/05/07,Royal Challengers Bengaluru,Rajasthan Royals,0,0.4946,0,88,335982,392212
+392214,2009,2009/05/07,Chennai Super Kings,Punjab Kings,1,0.6287,0,89,335982,392213
+392215,2009,2009/05/08,Delhi Capitals,Mumbai Indians,1,0.6094,0,90,335982,392214
+392216,2009,2009/05/09,Deccan Chargers,Punjab Kings,0,0.5599,0,91,335982,392215
+392217,2009,2009/05/09,Chennai Super Kings,Rajasthan Royals,1,0.5582,0,92,335982,392216
+392218,2009,2009/05/10,Royal Challengers Bengaluru,Mumbai Indians,0,0.4766,0,93,335982,392217
+392219,2009,2009/05/10,Delhi Capitals,Kolkata Knight Riders,1,0.5319,0,94,335982,392218
+392220,2009,2009/05/11,Deccan Chargers,Rajasthan Royals,1,0.5328,0,95,335982,392219
+392221,2009,2009/05/12,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.5246,0,96,335982,392220
+392222,2009,2009/05/12,Punjab Kings,Mumbai Indians,0,0.7038,0,97,335982,392221
+392223,2009,2009/05/13,Deccan Chargers,Delhi Capitals,0,0.5056,0,98,335982,392222
+392224,2009,2009/05/14,Royal Challengers Bengaluru,Chennai Super Kings,1,0.4898,0,99,335982,392223
+392225,2009,2009/05/14,Mumbai Indians,Rajasthan Royals,0,0.3831,0,100,335982,392224
+392226,2009,2009/05/15,Delhi Capitals,Punjab Kings,0,0.4491,0,101,335982,392225
+392227,2009,2009/05/16,Chennai Super Kings,Mumbai Indians,1,0.5305,0,102,335982,392226
+392228,2009,2009/05/16,Deccan Chargers,Kolkata Knight Riders,1,0.5793,0,103,335982,392227
+392229,2009,2009/05/17,Deccan Chargers,Punjab Kings,0,0.4105,0,104,335982,392228
+392230,2009,2009/05/17,Delhi Capitals,Rajasthan Royals,1,0.4057,0,105,335982,392229
+392231,2009,2009/05/18,Chennai Super Kings,Kolkata Knight Riders,0,0.686,0,106,335982,392230
+392232,2009,2009/05/19,Royal Challengers Bengaluru,Delhi Capitals,1,0.536,0,107,335982,392231
+392233,2009,2009/05/20,Kolkata Knight Riders,Rajasthan Royals,1,0.605,0,108,335982,392232
+392234,2009,2009/05/20,Chennai Super Kings,Punjab Kings,1,0.538,0,109,335982,392233
+392235,2009,2009/05/21,Delhi Capitals,Mumbai Indians,1,0.5864,0,110,335982,392234
+392236,2009,2009/05/21,Royal Challengers Bengaluru,Deccan Chargers,1,0.5213,0,111,335982,392235
+392237,2009,2009/05/22,Delhi Capitals,Deccan Chargers,0,0.719,0,112,335982,392236
+392238,2009,2009/05/23,Royal Challengers Bengaluru,Chennai Super Kings,1,0.6315,0,113,335982,392237
+392239,2009,2009/05/24,Royal Challengers Bengaluru,Deccan Chargers,0,0.6736,0,114,335982,392238
+419106,2009/10,2010/03/12,Deccan Chargers,Kolkata Knight Riders,0,0.6256,0,115,335982,392239
+419107,2009/10,2010/03/13,Mumbai Indians,Rajasthan Royals,1,0.4571,0,116,335982,419106
+419108,2009/10,2010/03/13,Punjab Kings,Delhi Capitals,0,0.5117,0,117,335982,419107
+419109,2009/10,2010/03/14,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.6794,0,118,335982,419108
+419110,2009/10,2010/03/14,Chennai Super Kings,Deccan Chargers,0,0.5289,0,119,335982,419109
+419111,2009/10,2010/03/15,Rajasthan Royals,Delhi Capitals,0,0.4562,0,120,335982,419110
+419112,2009/10,2010/03/16,Royal Challengers Bengaluru,Punjab Kings,1,0.4926,0,121,335982,419111
+419113,2009/10,2010/03/16,Kolkata Knight Riders,Chennai Super Kings,0,0.5296,0,122,335982,419112
+419114,2009/10,2010/03/17,Delhi Capitals,Mumbai Indians,0,0.459,0,123,335982,419113
+419115,2009/10,2010/03/18,Royal Challengers Bengaluru,Rajasthan Royals,1,0.5227,0,124,335982,419114
+419116,2009/10,2010/03/19,Delhi Capitals,Chennai Super Kings,0,0.6198,0,125,335982,419115
+419117,2009/10,2010/03/19,Deccan Chargers,Punjab Kings,1,0.5142,0,126,335982,419116
+419118,2009/10,2010/03/20,Rajasthan Royals,Kolkata Knight Riders,1,0.6643,0,127,335982,419117
+419119,2009/10,2010/03/20,Mumbai Indians,Royal Challengers Bengaluru,0,0.6887,0,128,335982,419118
+419120,2009/10,2010/03/21,Deccan Chargers,Delhi Capitals,1,0.4328,0,129,335982,419119
+419121,2009/10,2010/03/21,Chennai Super Kings,Punjab Kings,0,0.4807,0,130,335982,419120
+419122,2009/10,2010/03/22,Mumbai Indians,Kolkata Knight Riders,1,0.6109,0,131,335982,419121
+419123,2009/10,2010/03/23,Royal Challengers Bengaluru,Chennai Super Kings,1,0.3461,0,132,335982,419122
+419124,2009/10,2010/03/24,Punjab Kings,Rajasthan Royals,0,0.6072,0,133,335982,419123
+419125,2009/10,2010/03/25,Chennai Super Kings,Mumbai Indians,0,0.411,0,134,335982,419124
+419128,2009/10,2010/03/25,Royal Challengers Bengaluru,Delhi Capitals,0,0.4442,0,135,335982,419125
+419126,2009/10,2010/03/26,Rajasthan Royals,Deccan Chargers,1,0.6198,0,136,335982,419128
+419127,2009/10,2010/03/27,Punjab Kings,Kolkata Knight Riders,0,0.6327,0,137,335982,419126
+419129,2009/10,2010/03/28,Rajasthan Royals,Chennai Super Kings,1,0.4417,0,138,335982,419127
+419130,2009/10,2010/03/28,Deccan Chargers,Mumbai Indians,0,0.533,0,139,335982,419129
+419131,2009/10,2010/03/29,Delhi Capitals,Kolkata Knight Riders,1,0.5691,0,140,335982,419130
+419132,2009/10,2010/03/30,Mumbai Indians,Punjab Kings,1,0.5665,0,141,335982,419131
+419133,2009/10,2010/03/31,Chennai Super Kings,Royal Challengers Bengaluru,1,0.514,0,142,335982,419132
+419134,2009/10,2010/03/31,Delhi Capitals,Rajasthan Royals,1,0.5874,0,143,335982,419133
+419135,2009/10,2010/04/01,Kolkata Knight Riders,Deccan Chargers,1,0.5229,0,144,335982,419134
+419136,2009/10,2010/04/02,Punjab Kings,Royal Challengers Bengaluru,0,0.6438,0,145,335982,419135
+419137,2009/10,2010/04/03,Chennai Super Kings,Rajasthan Royals,1,0.5231,0,146,335982,419136
+419138,2009/10,2010/04/03,Mumbai Indians,Deccan Chargers,1,0.5815,0,147,335982,419137
+419139,2009/10,2010/04/04,Kolkata Knight Riders,Punjab Kings,0,0.5576,0,148,335982,419138
+419140,2009/10,2010/04/04,Delhi Capitals,Royal Challengers Bengaluru,1,0.5698,0,149,335982,419139
+419141,2009/10,2010/04/05,Deccan Chargers,Rajasthan Royals,0,0.5056,0,150,335982,419140
+419142,2009/10,2010/04/06,Chennai Super Kings,Mumbai Indians,1,0.7035,0,151,335982,419141
+419143,2009/10,2010/04/07,Rajasthan Royals,Punjab Kings,1,0.6696,0,152,335982,419142
+419144,2009/10,2010/04/07,Kolkata Knight Riders,Delhi Capitals,1,0.7043,0,153,335982,419143
+419145,2009/10,2010/04/08,Royal Challengers Bengaluru,Deccan Chargers,0,0.5579,0,154,335982,419144
+419146,2009/10,2010/04/09,Punjab Kings,Mumbai Indians,1,0.7201,0,155,335982,419145
+419147,2009/10,2010/04/10,Deccan Chargers,Chennai Super Kings,1,0.5195,0,156,335982,419146
+419148,2009/10,2010/04/10,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.602,0,157,335982,419147
+419149,2009/10,2010/04/11,Delhi Capitals,Punjab Kings,0,0.6425,0,158,335982,419148
+419150,2009/10,2010/04/11,Rajasthan Royals,Mumbai Indians,0,0.7621,0,159,335982,419149
+419151,2009/10,2010/04/12,Deccan Chargers,Royal Challengers Bengaluru,1,0.403,0,160,335982,419150
+419152,2009/10,2010/04/13,Mumbai Indians,Delhi Capitals,1,0.6585,0,161,335982,419151
+419153,2009/10,2010/04/13,Chennai Super Kings,Kolkata Knight Riders,1,0.5907,0,162,335982,419152
+419154,2009/10,2010/04/14,Rajasthan Royals,Royal Challengers Bengaluru,0,0.717,0,163,335982,419153
+419155,2009/10,2010/04/15,Chennai Super Kings,Delhi Capitals,0,0.6437,0,164,335982,419154
+419156,2009/10,2010/04/16,Punjab Kings,Deccan Chargers,0,0.5296,0,165,335982,419155
+419157,2009/10,2010/04/17,Royal Challengers Bengaluru,Mumbai Indians,0,0.5859,0,166,335982,419156
+419158,2009/10,2010/04/17,Kolkata Knight Riders,Rajasthan Royals,1,0.5231,0,167,335982,419157
+419159,2009/10,2010/04/18,Punjab Kings,Chennai Super Kings,0,0.5397,0,168,335982,419158
+419160,2009/10,2010/04/18,Delhi Capitals,Deccan Chargers,0,0.4637,0,169,335982,419159
+419161,2009/10,2010/04/19,Kolkata Knight Riders,Mumbai Indians,1,0.5423,0,170,335982,419160
+419162,2009/10,2010/04/21,Royal Challengers Bengaluru,Mumbai Indians,0,0.5254,0,171,335982,419161
+419163,2009/10,2010/04/22,Chennai Super Kings,Deccan Chargers,1,0.5357,0,172,335982,419162
+419164,2009/10,2010/04/24,Royal Challengers Bengaluru,Deccan Chargers,1,0.6605,0,173,335982,419163
+419165,2009/10,2010/04/25,Chennai Super Kings,Mumbai Indians,1,0.5209,0,174,335982,419164
+501198,2011,2011/04/08,Chennai Super Kings,Kolkata Knight Riders,1,0.4695,0,175,335982,419165
+501199,2011,2011/04/09,Deccan Chargers,Rajasthan Royals,0,0.3622,0,176,335982,501198
+501200,2011,2011/04/09,Kochi Tuskers Kerala,Royal Challengers Bengaluru,0,0.5251,0,177,335982,501199
+501201,2011,2011/04/10,Delhi Capitals,Mumbai Indians,0,0.4928,0,178,335982,501200
+501202,2011,2011/04/10,Pune Warriors,Punjab Kings,1,0.477,0,179,335982,501201
+501203,2011,2011/04/11,Kolkata Knight Riders,Deccan Chargers,1,0.5626,0,180,335982,501202
+501204,2011,2011/04/12,Rajasthan Royals,Delhi Capitals,1,0.6004,0,181,335982,501203
+501205,2011,2011/04/12,Royal Challengers Bengaluru,Mumbai Indians,0,0.4603,0,182,335982,501204
+501206,2011,2011/04/13,Punjab Kings,Chennai Super Kings,1,0.5597,0,183,335982,501205
+501207,2011,2011/04/13,Pune Warriors,Kochi Tuskers Kerala,1,0.5793,0,184,335982,501206
+501208,2011,2011/04/14,Deccan Chargers,Royal Challengers Bengaluru,1,0.2376,0,185,335982,501207
+501209,2011,2011/04/15,Rajasthan Royals,Kolkata Knight Riders,0,0.5469,0,186,335982,501208
+501210,2011,2011/04/15,Mumbai Indians,Kochi Tuskers Kerala,0,0.4369,0,187,335982,501209
+501211,2011,2011/04/16,Chennai Super Kings,Royal Challengers Bengaluru,1,0.6223,0,188,335982,501210
+501212,2011,2011/04/16,Deccan Chargers,Punjab Kings,0,0.3468,0,189,335982,501211
+501213,2011,2011/04/17,Pune Warriors,Delhi Capitals,0,0.5424,0,190,335982,501212
+501214,2011,2011/04/17,Kolkata Knight Riders,Rajasthan Royals,1,0.5091,0,191,335982,501213
+501215,2011,2011/04/18,Kochi Tuskers Kerala,Chennai Super Kings,1,0.5787,0,192,335982,501214
+501216,2011,2011/04/19,Delhi Capitals,Deccan Chargers,0,0.5178,0,193,335982,501215
+501218,2011,2011/04/20,Mumbai Indians,Pune Warriors,1,0.4635,0,194,335982,501216
+501219,2011,2011/04/20,Kolkata Knight Riders,Kochi Tuskers Kerala,0,0.4818,0,195,335982,501218
+501220,2011,2011/04/21,Punjab Kings,Rajasthan Royals,1,0.5688,0,196,335982,501219
+501221,2011,2011/04/22,Mumbai Indians,Chennai Super Kings,1,0.4396,0,197,335982,501220
+501222,2011,2011/04/22,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.4942,0,198,335982,501221
+501223,2011,2011/04/23,Delhi Capitals,Punjab Kings,1,0.4797,0,199,335982,501222
+501224,2011,2011/04/24,Deccan Chargers,Mumbai Indians,0,0.4997,0,200,335982,501223
+501225,2011,2011/04/24,Rajasthan Royals,Kochi Tuskers Kerala,1,0.5177,0,201,335982,501224
+501226,2011,2011/04/25,Chennai Super Kings,Pune Warriors,1,0.5549,0,202,335982,501225
+501227,2011,2011/04/26,Delhi Capitals,Royal Challengers Bengaluru,0,0.6126,0,203,335982,501226
+501228,2011,2011/04/27,Pune Warriors,Chennai Super Kings,0,0.4274,0,204,335982,501227
+501229,2011,2011/04/27,Kochi Tuskers Kerala,Deccan Chargers,0,0.4841,0,205,335982,501228
+501230,2011,2011/04/28,Delhi Capitals,Kolkata Knight Riders,0,0.6061,0,206,335982,501229
+501231,2011,2011/04/29,Rajasthan Royals,Mumbai Indians,1,0.558,0,207,335982,501230
+501232,2011,2011/04/29,Royal Challengers Bengaluru,Pune Warriors,1,0.5064,0,208,335982,501231
+501233,2011,2011/04/30,Kochi Tuskers Kerala,Delhi Capitals,0,0.3677,0,209,335982,501232
+501234,2011,2011/04/30,Kolkata Knight Riders,Punjab Kings,1,0.3767,0,210,335982,501233
+501235,2011,2011/05/01,Rajasthan Royals,Pune Warriors,1,0.5115,0,211,335982,501234
+501236,2011,2011/05/01,Chennai Super Kings,Deccan Chargers,1,0.6813,0,212,335982,501235
+501237,2011,2011/05/02,Mumbai Indians,Punjab Kings,1,0.5025,0,213,335982,501236
+501238,2011,2011/05/02,Delhi Capitals,Kochi Tuskers Kerala,0,0.6553,0,214,335982,501237
+501239,2011,2011/05/03,Deccan Chargers,Kolkata Knight Riders,0,0.4918,0,215,335982,501238
+501240,2011,2011/05/04,Chennai Super Kings,Rajasthan Royals,1,0.7016,0,216,335982,501239
+501241,2011,2011/05/04,Pune Warriors,Mumbai Indians,0,0.6048,0,217,335982,501240
+501242,2011,2011/05/05,Kochi Tuskers Kerala,Kolkata Knight Riders,1,0.3481,0,218,335982,501241
+501243,2011,2011/05/05,Deccan Chargers,Delhi Capitals,0,0.2755,0,219,335982,501242
+501244,2011,2011/05/06,Royal Challengers Bengaluru,Punjab Kings,1,0.4098,0,220,335982,501243
+501245,2011,2011/05/07,Kolkata Knight Riders,Chennai Super Kings,1,0.5955,0,221,335982,501244
+501246,2011,2011/05/07,Mumbai Indians,Delhi Capitals,1,0.4462,0,222,335982,501245
+501247,2011,2011/05/08,Royal Challengers Bengaluru,Kochi Tuskers Kerala,1,0.631,0,223,335982,501246
+501248,2011,2011/05/08,Punjab Kings,Pune Warriors,0,0.6118,0,224,335982,501247
+501249,2011,2011/05/09,Rajasthan Royals,Chennai Super Kings,0,0.6116,0,225,335982,501248
+501250,2011,2011/05/10,Deccan Chargers,Pune Warriors,0,0.3694,0,226,335982,501249
+501251,2011,2011/05/10,Punjab Kings,Mumbai Indians,1,0.5419,0,227,335982,501250
+501252,2011,2011/05/11,Rajasthan Royals,Royal Challengers Bengaluru,0,0.601,0,228,335982,501251
+501253,2011,2011/05/12,Chennai Super Kings,Delhi Capitals,1,0.6197,0,229,335982,501252
+501254,2011,2011/05/13,Kochi Tuskers Kerala,Punjab Kings,0,0.3909,0,230,335982,501253
+501255,2011,2011/05/14,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.6556,0,231,335982,501254
+501256,2011,2011/05/14,Mumbai Indians,Deccan Chargers,0,0.5513,0,232,335982,501255
+501257,2011,2011/05/15,Punjab Kings,Delhi Capitals,1,0.4926,0,233,335982,501256
+501258,2011,2011/05/15,Kochi Tuskers Kerala,Rajasthan Royals,1,0.4807,0,234,335982,501257
+501259,2011,2011/05/16,Pune Warriors,Deccan Chargers,0,0.4079,0,235,335982,501258
+501260,2011,2011/05/17,Punjab Kings,Royal Challengers Bengaluru,1,0.6592,0,236,335982,501259
+501261,2011,2011/05/18,Chennai Super Kings,Kochi Tuskers Kerala,1,0.6484,0,237,335982,501260
+501262,2011,2011/05/19,Pune Warriors,Kolkata Knight Riders,0,0.4121,0,238,335982,501261
+501263,2011,2011/05/20,Mumbai Indians,Rajasthan Royals,0,0.5182,0,239,335982,501262
+501264,2011,2011/05/21,Punjab Kings,Deccan Chargers,0,0.5715,0,240,335982,501263
+501266,2011,2011/05/22,Royal Challengers Bengaluru,Chennai Super Kings,1,0.6998,0,241,335982,501264
+501267,2011,2011/05/22,Kolkata Knight Riders,Mumbai Indians,0,0.5475,0,242,335982,501266
+501268,2011,2011/05/24,Royal Challengers Bengaluru,Chennai Super Kings,0,0.6441,0,243,335982,501267
+501269,2011,2011/05/25,Mumbai Indians,Kolkata Knight Riders,1,0.5548,0,244,335982,501268
+501270,2011,2011/05/27,Royal Challengers Bengaluru,Mumbai Indians,1,0.6672,0,245,335982,501269
+501271,2011,2011/05/28,Chennai Super Kings,Royal Challengers Bengaluru,1,0.7437,0,246,335982,501270
+548306,2012,2012/04/04,Chennai Super Kings,Mumbai Indians,0,0.6968,0,247,335982,501271
+548307,2012,2012/04/05,Kolkata Knight Riders,Delhi Capitals,0,0.4283,0,248,335982,548306
+548308,2012,2012/04/06,Mumbai Indians,Pune Warriors,0,0.5062,0,249,335982,548307
+548309,2012,2012/04/06,Rajasthan Royals,Punjab Kings,1,0.5316,0,250,335982,548308
+548310,2012,2012/04/07,Royal Challengers Bengaluru,Delhi Capitals,1,0.6462,0,251,335982,548309
+548311,2012,2012/04/07,Deccan Chargers,Chennai Super Kings,0,0.4035,0,252,335982,548310
+548312,2012,2012/04/08,Rajasthan Royals,Kolkata Knight Riders,1,0.6037,0,253,335982,548311
+548313,2012,2012/04/08,Pune Warriors,Punjab Kings,1,0.3068,0,254,335982,548312
+548314,2012,2012/04/09,Deccan Chargers,Mumbai Indians,0,0.4586,0,255,335982,548313
+548315,2012,2012/04/10,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.6015,0,256,335982,548314
+548316,2012,2012/04/10,Delhi Capitals,Chennai Super Kings,1,0.5933,0,257,335982,548315
+548317,2012,2012/04/11,Mumbai Indians,Rajasthan Royals,1,0.4292,0,258,335982,548316
+548318,2012,2012/04/12,Chennai Super Kings,Royal Challengers Bengaluru,1,0.5252,0,259,335982,548317
+548319,2012,2012/04/12,Punjab Kings,Pune Warriors,1,0.6377,0,260,335982,548318
+548320,2012,2012/04/13,Kolkata Knight Riders,Rajasthan Royals,1,0.6238,0,261,335982,548319
+548322,2012,2012/04/14,Pune Warriors,Chennai Super Kings,1,0.4707,0,262,335982,548320
+548323,2012,2012/04/15,Kolkata Knight Riders,Punjab Kings,0,0.5006,0,263,335982,548322
+548324,2012,2012/04/15,Royal Challengers Bengaluru,Rajasthan Royals,0,0.6277,0,264,335982,548323
+548325,2012,2012/04/16,Mumbai Indians,Delhi Capitals,0,0.3717,0,265,335982,548324
+548326,2012,2012/04/17,Rajasthan Royals,Deccan Chargers,1,0.5327,0,266,335982,548325
+548327,2012,2012/04/17,Royal Challengers Bengaluru,Pune Warriors,1,0.5701,0,267,335982,548326
+548328,2012,2012/04/18,Punjab Kings,Kolkata Knight Riders,0,0.5603,0,268,335982,548327
+548321,2012,2012/04/19,Delhi Capitals,Deccan Chargers,1,0.4079,0,269,335982,548328
+548330,2012,2012/04/19,Chennai Super Kings,Pune Warriors,1,0.5391,0,270,335982,548321
+548331,2012,2012/04/20,Punjab Kings,Royal Challengers Bengaluru,0,0.477,0,271,335982,548330
+548332,2012,2012/04/21,Chennai Super Kings,Rajasthan Royals,1,0.6848,0,272,335982,548331
+548333,2012,2012/04/21,Delhi Capitals,Pune Warriors,0,0.4582,0,273,335982,548332
+548334,2012,2012/04/22,Mumbai Indians,Punjab Kings,0,0.5387,0,274,335982,548333
+548335,2012,2012/04/22,Deccan Chargers,Kolkata Knight Riders,0,0.641,0,275,335982,548334
+548336,2012,2012/04/23,Rajasthan Royals,Royal Challengers Bengaluru,0,0.5527,0,276,335982,548335
+548337,2012,2012/04/24,Pune Warriors,Delhi Capitals,0,0.5906,0,277,335982,548336
+548339,2012,2012/04/25,Punjab Kings,Mumbai Indians,0,0.3845,0,278,335982,548337
+548341,2012,2012/04/26,Pune Warriors,Deccan Chargers,0,0.468,0,279,335982,548339
+548342,2012,2012/04/27,Delhi Capitals,Mumbai Indians,1,0.4594,0,280,335982,548341
+548343,2012,2012/04/28,Chennai Super Kings,Punjab Kings,0,0.5606,0,281,335982,548342
+548344,2012,2012/04/28,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.4482,0,282,335982,548343
+548345,2012,2012/04/29,Delhi Capitals,Rajasthan Royals,1,0.4848,0,283,335982,548344
+548346,2012,2012/04/29,Mumbai Indians,Deccan Chargers,1,0.5166,0,284,335982,548345
+548347,2012,2012/04/30,Chennai Super Kings,Kolkata Knight Riders,0,0.5902,0,285,335982,548346
+548348,2012,2012/05/01,Deccan Chargers,Pune Warriors,1,0.502,0,286,335982,548347
+548349,2012,2012/05/01,Rajasthan Royals,Delhi Capitals,0,0.5865,0,287,335982,548348
+548350,2012,2012/05/02,Royal Challengers Bengaluru,Punjab Kings,0,0.4691,0,288,335982,548349
+548351,2012,2012/05/03,Pune Warriors,Mumbai Indians,0,0.6036,0,289,335982,548350
+548352,2012,2012/05/04,Chennai Super Kings,Deccan Chargers,1,0.4791,0,290,335982,548351
+548353,2012,2012/05/05,Kolkata Knight Riders,Pune Warriors,1,0.4189,0,291,335982,548352
+548354,2012,2012/05/05,Punjab Kings,Rajasthan Royals,0,0.5066,0,292,335982,548353
+548355,2012,2012/05/06,Mumbai Indians,Chennai Super Kings,1,0.507,0,293,335982,548354
+548356,2012,2012/05/06,Royal Challengers Bengaluru,Deccan Chargers,1,0.5102,0,294,335982,548355
+548357,2012,2012/05/07,Delhi Capitals,Kolkata Knight Riders,0,0.7096,0,295,335982,548356
+548358,2012,2012/05/08,Pune Warriors,Rajasthan Royals,0,0.4256,0,296,335982,548357
+548359,2012,2012/05/08,Deccan Chargers,Punjab Kings,0,0.359,0,297,335982,548358
+548360,2012,2012/05/09,Mumbai Indians,Royal Challengers Bengaluru,0,0.6246,0,298,335982,548359
+548329,2012,2012/05/10,Deccan Chargers,Delhi Capitals,0,0.4083,0,299,335982,548360
+548361,2012,2012/05/10,Rajasthan Royals,Chennai Super Kings,0,0.5528,0,300,335982,548329
+548362,2012,2012/05/11,Pune Warriors,Royal Challengers Bengaluru,0,0.4638,0,301,335982,548361
+548363,2012,2012/05/12,Kolkata Knight Riders,Mumbai Indians,0,0.5105,0,302,335982,548362
+548364,2012,2012/05/12,Chennai Super Kings,Delhi Capitals,1,0.584,0,303,335982,548363
+548365,2012,2012/05/13,Rajasthan Royals,Pune Warriors,1,0.4268,0,304,335982,548364
+548366,2012,2012/05/13,Punjab Kings,Deccan Chargers,1,0.4407,0,305,335982,548365
+548367,2012,2012/05/14,Royal Challengers Bengaluru,Mumbai Indians,0,0.5514,0,306,335982,548366
+548368,2012,2012/05/14,Kolkata Knight Riders,Chennai Super Kings,0,0.4896,0,307,335982,548367
+548369,2012,2012/05/15,Delhi Capitals,Punjab Kings,1,0.5952,0,308,335982,548368
+548370,2012,2012/05/16,Mumbai Indians,Kolkata Knight Riders,0,0.4374,0,309,335982,548369
+548371,2012,2012/05/17,Punjab Kings,Chennai Super Kings,1,0.5426,0,310,335982,548370
+548372,2012,2012/05/17,Delhi Capitals,Royal Challengers Bengaluru,0,0.5189,0,311,335982,548371
+548373,2012,2012/05/18,Deccan Chargers,Rajasthan Royals,1,0.3245,0,312,335982,548372
+548374,2012,2012/05/19,Punjab Kings,Delhi Capitals,0,0.4786,0,313,335982,548373
+548375,2012,2012/05/19,Pune Warriors,Kolkata Knight Riders,0,0.4113,0,314,335982,548374
+548376,2012,2012/05/20,Deccan Chargers,Royal Challengers Bengaluru,1,0.3679,0,315,335982,548375
+548377,2012,2012/05/20,Rajasthan Royals,Mumbai Indians,0,0.4833,0,316,335982,548376
+548378,2012,2012/05/22,Delhi Capitals,Kolkata Knight Riders,0,0.5035,0,317,335982,548377
+548379,2012,2012/05/23,Chennai Super Kings,Mumbai Indians,1,0.4302,0,318,335982,548378
+548380,2012,2012/05/25,Delhi Capitals,Chennai Super Kings,0,0.637,0,319,335982,548379
+548381,2012,2012/05/27,Kolkata Knight Riders,Chennai Super Kings,1,0.5964,0,320,335982,548380
+597998,2013,2013/04/03,Kolkata Knight Riders,Delhi Capitals,1,0.4607,0,321,335982,548381
+597999,2013,2013/04/04,Royal Challengers Bengaluru,Mumbai Indians,1,0.5079,0,322,335982,597998
+598000,2013,2013/04/05,Sunrisers Hyderabad,Pune Warriors,1,0.3351,0,323,335982,597999
+598001,2013,2013/04/06,Delhi Capitals,Rajasthan Royals,0,0.4905,0,324,335982,598000
+598002,2013,2013/04/06,Chennai Super Kings,Mumbai Indians,0,0.5977,0,325,335982,598001
+598003,2013,2013/04/07,Pune Warriors,Punjab Kings,0,0.4684,0,326,335982,598002
+598004,2013,2013/04/07,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.4478,0,327,335982,598003
+598005,2013,2013/04/08,Rajasthan Royals,Kolkata Knight Riders,1,0.4519,0,328,335982,598004
+598006,2013,2013/04/09,Mumbai Indians,Delhi Capitals,1,0.382,0,329,335982,598005
+598048,2013,2013/04/09,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.6361,0,330,335982,598006
+598007,2013,2013/04/10,Punjab Kings,Chennai Super Kings,0,0.5202,0,331,335982,598048
+598008,2013,2013/04/11,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.5354,0,332,335982,598007
+598009,2013,2013/04/11,Pune Warriors,Rajasthan Royals,1,0.3745,0,333,335982,598008
+598010,2013,2013/04/12,Delhi Capitals,Sunrisers Hyderabad,0,0.5416,0,334,335982,598009
+598011,2013,2013/04/13,Mumbai Indians,Pune Warriors,1,0.5866,0,335,335982,598010
+598012,2013,2013/04/13,Chennai Super Kings,Royal Challengers Bengaluru,1,0.5824,0,336,335982,598011
+598013,2013,2013/04/14,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.6173,0,337,335982,598012
+598014,2013,2013/04/14,Rajasthan Royals,Punjab Kings,1,0.5045,0,338,335982,598013
+598015,2013,2013/04/15,Chennai Super Kings,Pune Warriors,0,0.6072,0,339,335982,598014
+598016,2013,2013/04/16,Punjab Kings,Kolkata Knight Riders,1,0.5284,0,340,335982,598015
+598017,2013,2013/04/16,Royal Challengers Bengaluru,Delhi Capitals,1,0.5158,0,341,335982,598016
+598018,2013,2013/04/17,Pune Warriors,Sunrisers Hyderabad,0,0.4193,0,342,335982,598017
+598019,2013,2013/04/17,Rajasthan Royals,Mumbai Indians,1,0.5532,0,343,335982,598018
+598020,2013,2013/04/18,Delhi Capitals,Chennai Super Kings,0,0.4399,0,344,335982,598019
+598021,2013,2013/04/19,Sunrisers Hyderabad,Punjab Kings,1,0.4728,0,345,335982,598020
+598022,2013,2013/04/20,Kolkata Knight Riders,Chennai Super Kings,0,0.5594,0,346,335982,598021
+598023,2013,2013/04/20,Royal Challengers Bengaluru,Rajasthan Royals,1,0.6216,0,347,335982,598022
+598024,2013,2013/04/21,Delhi Capitals,Mumbai Indians,1,0.4725,0,348,335982,598023
+598025,2013,2013/04/21,Punjab Kings,Pune Warriors,1,0.4976,0,349,335982,598024
+598026,2013,2013/04/22,Chennai Super Kings,Rajasthan Royals,1,0.6314,0,350,335982,598025
+598027,2013,2013/04/23,Royal Challengers Bengaluru,Pune Warriors,1,0.4329,0,351,335982,598026
+598059,2013,2013/04/23,Delhi Capitals,Punjab Kings,0,0.4789,0,352,335982,598027
+598029,2013,2013/04/24,Kolkata Knight Riders,Mumbai Indians,0,0.5943,0,353,335982,598059
+598030,2013,2013/04/25,Chennai Super Kings,Sunrisers Hyderabad,1,0.6469,0,354,335982,598029
+598031,2013,2013/04/26,Kolkata Knight Riders,Punjab Kings,1,0.5911,0,355,335982,598030
+598032,2013,2013/04/27,Rajasthan Royals,Sunrisers Hyderabad,1,0.6587,0,356,335982,598031
+598033,2013,2013/04/27,Mumbai Indians,Royal Challengers Bengaluru,1,0.5586,0,357,335982,598032
+598034,2013,2013/04/28,Chennai Super Kings,Kolkata Knight Riders,1,0.6023,0,358,335982,598033
+598035,2013,2013/04/28,Delhi Capitals,Pune Warriors,1,0.4062,0,359,335982,598034
+598036,2013,2013/04/29,Rajasthan Royals,Royal Challengers Bengaluru,1,0.6459,0,360,335982,598035
+598037,2013,2013/04/29,Mumbai Indians,Punjab Kings,1,0.6276,0,361,335982,598036
+598038,2013,2013/04/30,Pune Warriors,Chennai Super Kings,0,0.5178,0,362,335982,598037
+598039,2013,2013/05/01,Sunrisers Hyderabad,Mumbai Indians,1,0.5373,0,363,335982,598038
+598040,2013,2013/05/01,Delhi Capitals,Kolkata Knight Riders,1,0.5457,0,364,335982,598039
+598041,2013,2013/05/02,Chennai Super Kings,Punjab Kings,1,0.6811,0,365,335982,598040
+598042,2013,2013/05/02,Pune Warriors,Royal Challengers Bengaluru,0,0.4368,0,366,335982,598041
+598043,2013,2013/05/03,Kolkata Knight Riders,Rajasthan Royals,1,0.7271,0,367,335982,598042
+598044,2013,2013/05/04,Sunrisers Hyderabad,Delhi Capitals,1,0.5619,0,368,335982,598043
+598046,2013,2013/05/05,Mumbai Indians,Chennai Super Kings,1,0.7153,0,369,335982,598044
+598047,2013,2013/05/05,Rajasthan Royals,Pune Warriors,1,0.6196,0,370,335982,598046
+598064,2013,2013/05/06,Punjab Kings,Royal Challengers Bengaluru,1,0.6972,0,371,335982,598047
+598049,2013,2013/05/07,Rajasthan Royals,Delhi Capitals,1,0.7313,0,372,335982,598064
+598050,2013,2013/05/07,Mumbai Indians,Kolkata Knight Riders,1,0.6991,0,373,335982,598049
+598051,2013,2013/05/08,Sunrisers Hyderabad,Chennai Super Kings,0,0.6273,0,374,335982,598050
+598052,2013,2013/05/09,Punjab Kings,Rajasthan Royals,0,0.7729,0,375,335982,598051
+598053,2013,2013/05/09,Pune Warriors,Kolkata Knight Riders,0,0.4356,0,376,335982,598052
+598054,2013,2013/05/10,Delhi Capitals,Royal Challengers Bengaluru,0,0.5738,0,377,335982,598053
+598055,2013,2013/05/11,Pune Warriors,Mumbai Indians,0,0.3426,0,378,335982,598054
+598056,2013,2013/05/11,Punjab Kings,Sunrisers Hyderabad,0,0.6244,0,379,335982,598055
+598057,2013,2013/05/12,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.5385,0,380,335982,598056
+598058,2013,2013/05/12,Rajasthan Royals,Chennai Super Kings,1,0.6965,0,381,335982,598057
+598060,2013,2013/05/13,Mumbai Indians,Sunrisers Hyderabad,1,0.6031,0,382,335982,598058
+598045,2013,2013/05/14,Royal Challengers Bengaluru,Punjab Kings,0,0.6192,0,383,335982,598060
+598062,2013,2013/05/14,Chennai Super Kings,Delhi Capitals,1,0.7067,0,384,335982,598045
+598061,2013,2013/05/15,Kolkata Knight Riders,Pune Warriors,0,0.5549,0,385,335982,598062
+598063,2013,2013/05/15,Mumbai Indians,Rajasthan Royals,1,0.6096,0,386,335982,598061
+598028,2013,2013/05/16,Punjab Kings,Delhi Capitals,1,0.5834,0,387,335982,598063
+598065,2013,2013/05/17,Sunrisers Hyderabad,Rajasthan Royals,1,0.5061,0,388,335982,598028
+598066,2013,2013/05/18,Punjab Kings,Mumbai Indians,1,0.6706,0,389,335982,598065
+598068,2013,2013/05/18,Royal Challengers Bengaluru,Chennai Super Kings,1,0.6744,0,390,335982,598066
+598067,2013,2013/05/19,Pune Warriors,Delhi Capitals,1,0.2847,0,391,335982,598068
+598069,2013,2013/05/19,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.5908,0,392,335982,598067
+598070,2013,2013/05/21,Chennai Super Kings,Mumbai Indians,1,0.6777,0,393,335982,598069
+598071,2013,2013/05/22,Rajasthan Royals,Sunrisers Hyderabad,1,0.5568,0,394,335982,598070
+598072,2013,2013/05/24,Mumbai Indians,Rajasthan Royals,1,0.7344,0,395,335982,598071
+598073,2013,2013/05/26,Chennai Super Kings,Mumbai Indians,0,0.7351,0,396,335982,598072
+729279,2014,2014/04/16,Mumbai Indians,Kolkata Knight Riders,0,0.7031,0,397,335982,598073
+729281,2014,2014/04/17,Delhi Capitals,Royal Challengers Bengaluru,0,0.5416,0,398,335982,729279
+729283,2014,2014/04/18,Chennai Super Kings,Punjab Kings,0,0.7078,0,399,335982,729281
+729285,2014,2014/04/18,Sunrisers Hyderabad,Rajasthan Royals,0,0.4559,0,400,335982,729283
+729287,2014,2014/04/19,Royal Challengers Bengaluru,Mumbai Indians,1,0.5839,0,401,335982,729285
+729289,2014,2014/04/19,Kolkata Knight Riders,Delhi Capitals,0,0.6054,0,402,335982,729287
+729291,2014,2014/04/20,Rajasthan Royals,Punjab Kings,0,0.5571,0,403,335982,729289
+729293,2014,2014/04/21,Chennai Super Kings,Delhi Capitals,1,0.5596,0,404,335982,729291
+729295,2014,2014/04/22,Punjab Kings,Sunrisers Hyderabad,1,0.6429,0,405,335982,729293
+729297,2014,2014/04/23,Rajasthan Royals,Chennai Super Kings,0,0.5254,0,406,335982,729295
+729299,2014,2014/04/24,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.58,0,407,335982,729297
+729301,2014,2014/04/25,Sunrisers Hyderabad,Delhi Capitals,1,0.4413,0,408,335982,729299
+729303,2014,2014/04/25,Chennai Super Kings,Mumbai Indians,1,0.6216,0,409,335982,729301
+729305,2014,2014/04/26,Rajasthan Royals,Royal Challengers Bengaluru,1,0.5338,0,410,335982,729303
+729307,2014,2014/04/26,Kolkata Knight Riders,Punjab Kings,0,0.5283,0,411,335982,729305
+729309,2014,2014/04/27,Delhi Capitals,Mumbai Indians,1,0.5082,0,412,335982,729307
+729311,2014,2014/04/27,Sunrisers Hyderabad,Chennai Super Kings,0,0.5564,0,413,335982,729309
+729313,2014,2014/04/28,Punjab Kings,Royal Challengers Bengaluru,1,0.6893,0,414,335982,729311
+729315,2014,2014/04/29,Kolkata Knight Riders,Rajasthan Royals,0,0.5549,0,415,335982,729313
+729317,2014,2014/04/30,Mumbai Indians,Sunrisers Hyderabad,0,0.4968,0,416,335982,729315
+733971,2014,2014/05/02,Chennai Super Kings,Kolkata Knight Riders,1,0.6153,0,417,335982,729317
+733973,2014,2014/05/03,Mumbai Indians,Punjab Kings,1,0.6727,0,418,335982,733971
+733975,2014,2014/05/03,Delhi Capitals,Rajasthan Royals,0,0.6227,0,419,335982,733973
+733977,2014,2014/05/04,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.4815,0,420,335982,733975
+733979,2014,2014/05/05,Rajasthan Royals,Kolkata Knight Riders,1,0.5711,0,421,335982,733977
+733981,2014,2014/05/05,Delhi Capitals,Chennai Super Kings,0,0.5543,0,422,335982,733979
+733983,2014,2014/05/06,Mumbai Indians,Royal Challengers Bengaluru,1,0.5896,0,423,335982,733981
+733985,2014,2014/05/07,Delhi Capitals,Kolkata Knight Riders,0,0.5535,0,424,335982,733983
+733987,2014,2014/05/07,Punjab Kings,Chennai Super Kings,1,0.5831,0,425,335982,733985
+733989,2014,2014/05/08,Rajasthan Royals,Sunrisers Hyderabad,0,0.6008,0,426,335982,733987
+733991,2014,2014/05/09,Royal Challengers Bengaluru,Punjab Kings,0,0.6299,0,427,335982,733989
+733993,2014,2014/05/10,Delhi Capitals,Sunrisers Hyderabad,0,0.553,0,428,335982,733991
+733995,2014,2014/05/10,Mumbai Indians,Chennai Super Kings,0,0.6334,0,429,335982,733993
+733997,2014,2014/05/11,Punjab Kings,Kolkata Knight Riders,0,0.6593,0,430,335982,733995
+733999,2014,2014/05/11,Royal Challengers Bengaluru,Rajasthan Royals,0,0.5677,0,431,335982,733997
+734001,2014,2014/05/12,Sunrisers Hyderabad,Mumbai Indians,0,0.5234,0,432,335982,733999
+734003,2014,2014/05/13,Chennai Super Kings,Rajasthan Royals,1,0.6394,0,433,335982,734001
+734005,2014,2014/05/13,Royal Challengers Bengaluru,Delhi Capitals,1,0.4898,0,434,335982,734003
+734007,2014,2014/05/14,Sunrisers Hyderabad,Punjab Kings,0,0.5141,0,435,335982,734005
+734009,2014,2014/05/14,Kolkata Knight Riders,Mumbai Indians,1,0.5344,0,436,335982,734007
+734011,2014,2014/05/15,Rajasthan Royals,Delhi Capitals,1,0.5606,0,437,335982,734009
+734013,2014,2014/05/18,Chennai Super Kings,Royal Challengers Bengaluru,0,0.6259,0,438,335982,734011
+734015,2014,2014/05/18,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.5377,0,439,335982,734013
+734017,2014,2014/05/19,Rajasthan Royals,Mumbai Indians,0,0.6486,0,440,335982,734015
+734019,2014,2014/05/19,Delhi Capitals,Punjab Kings,0,0.4305,0,441,335982,734017
+734021,2014,2014/05/20,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.4241,0,442,335982,734019
+734023,2014,2014/05/20,Kolkata Knight Riders,Chennai Super Kings,1,0.5129,0,443,335982,734021
+734025,2014,2014/05/21,Punjab Kings,Mumbai Indians,0,0.5971,0,444,335982,734023
+734027,2014,2014/05/22,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.5519,0,445,335982,734025
+734029,2014,2014/05/22,Chennai Super Kings,Sunrisers Hyderabad,0,0.5097,0,446,335982,734027
+734031,2014,2014/05/23,Mumbai Indians,Delhi Capitals,1,0.6168,0,447,335982,734029
+734033,2014,2014/05/23,Punjab Kings,Rajasthan Royals,1,0.5871,0,448,335982,734031
+734035,2014,2014/05/24,Royal Challengers Bengaluru,Chennai Super Kings,0,0.5633,0,449,335982,734033
+734037,2014,2014/05/24,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5871,0,450,335982,734035
+734039,2014,2014/05/25,Punjab Kings,Delhi Capitals,1,0.5886,0,451,335982,734037
+734041,2014,2014/05/25,Mumbai Indians,Rajasthan Royals,1,0.6705,0,452,335982,734039
+734043,2014,2014/05/27,Punjab Kings,Kolkata Knight Riders,0,0.6716,0,453,335982,734041
+734045,2014,2014/05/28,Chennai Super Kings,Mumbai Indians,1,0.5695,0,454,335982,734043
+734047,2014,2014/05/30,Chennai Super Kings,Punjab Kings,0,0.5932,0,455,335982,734045
+734049,2014,2014/06/01,Kolkata Knight Riders,Punjab Kings,1,0.5218,0,456,335982,734047
+829705,2015,2015/04/08,Kolkata Knight Riders,Mumbai Indians,1,0.5922,0,457,335982,734049
+829707,2015,2015/04/09,Chennai Super Kings,Delhi Capitals,1,0.5577,0,458,335982,829705
+829709,2015,2015/04/10,Punjab Kings,Rajasthan Royals,0,0.5631,0,459,335982,829707
+829711,2015,2015/04/11,Chennai Super Kings,Sunrisers Hyderabad,1,0.6162,0,460,335982,829709
+829713,2015,2015/04/11,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.5963,0,461,335982,829711
+829715,2015,2015/04/12,Delhi Capitals,Rajasthan Royals,0,0.3491,0,462,335982,829713
+829717,2015,2015/04/12,Mumbai Indians,Punjab Kings,0,0.6077,0,463,335982,829715
+829719,2015,2015/04/13,Royal Challengers Bengaluru,Sunrisers Hyderabad,0,0.5332,0,464,335982,829717
+829721,2015,2015/04/14,Rajasthan Royals,Mumbai Indians,1,0.6329,0,465,335982,829719
+829725,2015,2015/04/15,Punjab Kings,Delhi Capitals,0,0.536,0,466,335982,829721
+829727,2015,2015/04/16,Sunrisers Hyderabad,Rajasthan Royals,0,0.4859,0,467,335982,829725
+829729,2015,2015/04/17,Mumbai Indians,Chennai Super Kings,0,0.5447,0,468,335982,829727
+829731,2015,2015/04/18,Sunrisers Hyderabad,Delhi Capitals,0,0.5026,0,469,335982,829729
+829733,2015,2015/04/18,Punjab Kings,Kolkata Knight Riders,0,0.4761,0,470,335982,829731
+829735,2015,2015/04/19,Rajasthan Royals,Chennai Super Kings,1,0.6196,0,471,335982,829733
+829737,2015,2015/04/19,Royal Challengers Bengaluru,Mumbai Indians,0,0.4216,0,472,335982,829735
+829739,2015,2015/04/20,Delhi Capitals,Kolkata Knight Riders,0,0.3609,0,473,335982,829737
+829741,2015,2015/04/21,Rajasthan Royals,Punjab Kings,0,0.5579,0,474,335982,829739
+829743,2015,2015/04/22,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.4567,0,475,335982,829741
+829745,2015,2015/04/22,Royal Challengers Bengaluru,Chennai Super Kings,0,0.4908,0,476,335982,829743
+829747,2015,2015/04/23,Delhi Capitals,Mumbai Indians,1,0.2968,0,477,335982,829745
+829749,2015,2015/04/24,Rajasthan Royals,Royal Challengers Bengaluru,0,0.5364,0,478,335982,829747
+829751,2015,2015/04/25,Mumbai Indians,Sunrisers Hyderabad,1,0.5123,0,479,335982,829749
+829753,2015,2015/04/25,Chennai Super Kings,Punjab Kings,1,0.6037,0,480,335982,829751
+829757,2015,2015/04/26,Delhi Capitals,Royal Challengers Bengaluru,0,0.3935,0,481,335982,829753
+829759,2015,2015/04/27,Punjab Kings,Sunrisers Hyderabad,0,0.4795,0,482,335982,829757
+829765,2015,2015/04/28,Chennai Super Kings,Kolkata Knight Riders,1,0.6233,0,483,335982,829759
+829723,2015,2015/04/30,Kolkata Knight Riders,Chennai Super Kings,1,0.5811,0,484,335982,829765
+829767,2015,2015/05/01,Delhi Capitals,Punjab Kings,1,0.3765,0,485,335982,829723
+829769,2015,2015/05/01,Mumbai Indians,Rajasthan Royals,1,0.4948,0,486,335982,829767
+829771,2015,2015/05/02,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.5031,0,487,335982,829769
+829773,2015,2015/05/02,Sunrisers Hyderabad,Chennai Super Kings,1,0.5803,0,488,335982,829771
+829775,2015,2015/05/03,Punjab Kings,Mumbai Indians,0,0.4711,0,489,335982,829773
+829777,2015,2015/05/03,Rajasthan Royals,Delhi Capitals,1,0.5049,0,490,335982,829775
+829779,2015,2015/05/04,Chennai Super Kings,Royal Challengers Bengaluru,1,0.7156,0,491,335982,829777
+829781,2015,2015/05/04,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5375,0,492,335982,829779
+829783,2015,2015/05/05,Mumbai Indians,Delhi Capitals,1,0.5716,0,493,335982,829781
+829785,2015,2015/05/06,Royal Challengers Bengaluru,Punjab Kings,1,0.6176,0,494,335982,829783
+829761,2015,2015/05/07,Kolkata Knight Riders,Delhi Capitals,1,0.5972,0,495,335982,829785
+829787,2015,2015/05/07,Rajasthan Royals,Sunrisers Hyderabad,0,0.5555,0,496,335982,829761
+829789,2015,2015/05/08,Chennai Super Kings,Mumbai Indians,0,0.7535,0,497,335982,829787
+829791,2015,2015/05/09,Kolkata Knight Riders,Punjab Kings,1,0.6494,0,498,335982,829789
+829793,2015,2015/05/09,Delhi Capitals,Sunrisers Hyderabad,0,0.536,0,499,335982,829791
+829795,2015,2015/05/10,Mumbai Indians,Royal Challengers Bengaluru,0,0.7005,0,500,335982,829793
+829797,2015,2015/05/10,Chennai Super Kings,Rajasthan Royals,1,0.6967,0,501,335982,829795
+829799,2015,2015/05/11,Sunrisers Hyderabad,Punjab Kings,1,0.5765,0,502,335982,829797
+829801,2015,2015/05/12,Delhi Capitals,Chennai Super Kings,1,0.5269,0,503,335982,829799
+829803,2015,2015/05/13,Punjab Kings,Royal Challengers Bengaluru,1,0.4159,0,504,335982,829801
+829805,2015,2015/05/14,Mumbai Indians,Kolkata Knight Riders,1,0.6069,0,505,335982,829803
+829807,2015,2015/05/15,Sunrisers Hyderabad,Royal Challengers Bengaluru,0,0.5785,0,506,335982,829805
+829809,2015,2015/05/16,Punjab Kings,Chennai Super Kings,0,0.5502,0,507,335982,829807
+829811,2015,2015/05/16,Rajasthan Royals,Kolkata Knight Riders,1,0.5436,0,508,335982,829809
+829815,2015,2015/05/17,Sunrisers Hyderabad,Mumbai Indians,0,0.5553,0,509,335982,829811
+829817,2015,2015/05/19,Chennai Super Kings,Mumbai Indians,0,0.5903,0,510,335982,829815
+829819,2015,2015/05/20,Royal Challengers Bengaluru,Rajasthan Royals,1,0.4945,0,511,335982,829817
+829821,2015,2015/05/22,Chennai Super Kings,Royal Challengers Bengaluru,1,0.5057,0,512,335982,829819
+829823,2015,2015/05/24,Mumbai Indians,Chennai Super Kings,1,0.6114,0,513,335982,829821
+980901,2016,2016/04/09,Mumbai Indians,Rising Pune Supergiant,0,0.69,0,514,335982,829823
+980903,2016,2016/04/10,Kolkata Knight Riders,Delhi Capitals,1,0.6436,0,515,335982,980901
+980905,2016,2016/04/11,Punjab Kings,Gujarat Lions,0,0.5354,0,516,335982,980903
+980907,2016,2016/04/12,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.5273,0,517,335982,980905
+980909,2016,2016/04/13,Kolkata Knight Riders,Mumbai Indians,0,0.6502,0,518,335982,980907
+980911,2016,2016/04/14,Gujarat Lions,Rising Pune Supergiant,1,0.6279,0,519,335982,980909
+980913,2016,2016/04/15,Delhi Capitals,Punjab Kings,1,0.4006,0,520,335982,980911
+980915,2016,2016/04/16,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.5248,0,521,335982,980913
+980917,2016,2016/04/16,Mumbai Indians,Gujarat Lions,0,0.6432,0,522,335982,980915
+980919,2016,2016/04/17,Punjab Kings,Rising Pune Supergiant,1,0.4825,0,523,335982,980917
+980921,2016,2016/04/17,Royal Challengers Bengaluru,Delhi Capitals,0,0.6339,0,524,335982,980919
+980923,2016,2016/04/18,Sunrisers Hyderabad,Mumbai Indians,1,0.4765,0,525,335982,980921
+980925,2016,2016/04/19,Punjab Kings,Kolkata Knight Riders,0,0.458,0,526,335982,980923
+980927,2016,2016/04/20,Mumbai Indians,Royal Challengers Bengaluru,1,0.5803,0,527,335982,980925
+980929,2016,2016/04/21,Gujarat Lions,Sunrisers Hyderabad,0,0.5347,0,528,335982,980927
+980931,2016,2016/04/22,Rising Pune Supergiant,Royal Challengers Bengaluru,0,0.4193,0,529,335982,980929
+980933,2016,2016/04/23,Delhi Capitals,Mumbai Indians,1,0.5141,0,530,335982,980931
+980935,2016,2016/04/23,Sunrisers Hyderabad,Punjab Kings,1,0.5646,0,531,335982,980933
+980937,2016,2016/04/24,Gujarat Lions,Royal Challengers Bengaluru,1,0.5693,0,532,335982,980935
+980939,2016,2016/04/24,Rising Pune Supergiant,Kolkata Knight Riders,0,0.3763,0,533,335982,980937
+980941,2016,2016/04/25,Punjab Kings,Mumbai Indians,0,0.4567,0,534,335982,980939
+980943,2016,2016/04/26,Sunrisers Hyderabad,Rising Pune Supergiant,0,0.5323,0,535,335982,980941
+980945,2016,2016/04/27,Delhi Capitals,Gujarat Lions,0,0.5245,0,536,335982,980943
+980947,2016,2016/04/28,Mumbai Indians,Kolkata Knight Riders,1,0.5968,0,537,335982,980945
+980949,2016,2016/04/29,Rising Pune Supergiant,Gujarat Lions,0,0.3467,0,538,335982,980947
+980951,2016,2016/04/30,Delhi Capitals,Kolkata Knight Riders,1,0.5292,0,539,335982,980949
+980953,2016,2016/04/30,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.5534,0,540,335982,980951
+980955,2016,2016/05/01,Gujarat Lions,Punjab Kings,0,0.5888,0,541,335982,980953
+980957,2016,2016/05/01,Rising Pune Supergiant,Mumbai Indians,0,0.2807,0,542,335982,980955
+980959,2016,2016/05/02,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.5544,0,543,335982,980957
+980961,2016,2016/05/03,Gujarat Lions,Delhi Capitals,0,0.576,0,544,335982,980959
+980963,2016,2016/05/04,Kolkata Knight Riders,Punjab Kings,1,0.6226,0,545,335982,980961
+980965,2016,2016/05/05,Delhi Capitals,Rising Pune Supergiant,0,0.5245,0,546,335982,980963
+980967,2016,2016/05/06,Sunrisers Hyderabad,Gujarat Lions,1,0.5176,0,547,335982,980965
+980969,2016,2016/05/07,Royal Challengers Bengaluru,Rising Pune Supergiant,1,0.5047,0,548,335982,980967
+980971,2016,2016/05/07,Punjab Kings,Delhi Capitals,1,0.4876,0,549,335982,980969
+980973,2016,2016/05/08,Mumbai Indians,Sunrisers Hyderabad,0,0.59,0,550,335982,980971
+980975,2016,2016/05/08,Kolkata Knight Riders,Gujarat Lions,0,0.5555,0,551,335982,980973
+980977,2016,2016/05/09,Punjab Kings,Royal Challengers Bengaluru,0,0.6034,0,552,335982,980975
+980979,2016,2016/05/10,Rising Pune Supergiant,Sunrisers Hyderabad,0,0.5367,0,553,335982,980977
+980981,2016,2016/05/11,Royal Challengers Bengaluru,Mumbai Indians,0,0.4969,0,554,335982,980979
+980983,2016,2016/05/12,Sunrisers Hyderabad,Delhi Capitals,0,0.5828,0,555,335982,980981
+980985,2016,2016/05/13,Mumbai Indians,Punjab Kings,0,0.4947,0,556,335982,980983
+980987,2016,2016/05/14,Royal Challengers Bengaluru,Gujarat Lions,1,0.4554,0,557,335982,980985
+980989,2016,2016/05/14,Kolkata Knight Riders,Rising Pune Supergiant,1,0.5721,0,558,335982,980987
+980991,2016,2016/05/15,Punjab Kings,Sunrisers Hyderabad,0,0.545,0,559,335982,980989
+980993,2016,2016/05/15,Mumbai Indians,Delhi Capitals,1,0.4987,0,560,335982,980991
+980995,2016,2016/05/16,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.621,0,561,335982,980993
+980997,2016,2016/05/17,Rising Pune Supergiant,Delhi Capitals,1,0.3926,0,562,335982,980995
+980999,2016,2016/05/18,Royal Challengers Bengaluru,Punjab Kings,1,0.5211,0,563,335982,980997
+981001,2016,2016/05/19,Gujarat Lions,Kolkata Knight Riders,1,0.4591,0,564,335982,980999
+981003,2016,2016/05/20,Delhi Capitals,Sunrisers Hyderabad,1,0.4939,0,565,335982,981001
+981005,2016,2016/05/21,Rising Pune Supergiant,Punjab Kings,1,0.4771,0,566,335982,981003
+981007,2016,2016/05/21,Gujarat Lions,Mumbai Indians,1,0.5511,0,567,335982,981005
+981009,2016,2016/05/22,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5677,0,568,335982,981007
+981011,2016,2016/05/22,Delhi Capitals,Royal Challengers Bengaluru,0,0.5463,0,569,335982,981009
+981013,2016,2016/05/24,Gujarat Lions,Royal Challengers Bengaluru,0,0.543,0,570,335982,981011
+981015,2016,2016/05/25,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.483,0,571,335982,981013
+981017,2016,2016/05/27,Gujarat Lions,Sunrisers Hyderabad,0,0.4636,0,572,335982,981015
+981019,2016,2016/05/29,Royal Challengers Bengaluru,Sunrisers Hyderabad,0,0.5977,0,573,335982,981017
+1082591,2017,2017/04/05,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.5501,0,574,335982,981019
+1082592,2017,2017/04/06,Rising Pune Supergiant,Mumbai Indians,1,0.3243,0,575,335982,1082591
+1082593,2017,2017/04/07,Gujarat Lions,Kolkata Knight Riders,0,0.5341,0,576,335982,1082592
+1082594,2017,2017/04/08,Punjab Kings,Rising Pune Supergiant,1,0.5238,0,577,335982,1082593
+1082595,2017,2017/04/08,Royal Challengers Bengaluru,Delhi Capitals,1,0.5773,0,578,335982,1082594
+1082596,2017,2017/04/09,Sunrisers Hyderabad,Gujarat Lions,1,0.5365,0,579,335982,1082595
+1082597,2017,2017/04/09,Mumbai Indians,Kolkata Knight Riders,1,0.6301,0,580,335982,1082596
+1082598,2017,2017/04/10,Punjab Kings,Royal Challengers Bengaluru,1,0.5742,0,581,335982,1082597
+1082599,2017,2017/04/11,Rising Pune Supergiant,Delhi Capitals,0,0.4524,0,582,335982,1082598
+1082600,2017,2017/04/12,Mumbai Indians,Sunrisers Hyderabad,1,0.5906,0,583,335982,1082599
+1082601,2017,2017/04/13,Kolkata Knight Riders,Punjab Kings,1,0.6343,0,584,335982,1082600
+1082602,2017,2017/04/14,Royal Challengers Bengaluru,Mumbai Indians,0,0.5155,0,585,335982,1082601
+1082603,2017,2017/04/14,Gujarat Lions,Rising Pune Supergiant,1,0.5303,0,586,335982,1082602
+1082604,2017,2017/04/15,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.6138,0,587,335982,1082603
+1082605,2017,2017/04/15,Delhi Capitals,Punjab Kings,1,0.5541,0,588,335982,1082604
+1082606,2017,2017/04/16,Mumbai Indians,Gujarat Lions,1,0.5773,0,589,335982,1082605
+1082607,2017,2017/04/16,Royal Challengers Bengaluru,Rising Pune Supergiant,0,0.6214,0,590,335982,1082606
+1082608,2017,2017/04/17,Delhi Capitals,Kolkata Knight Riders,0,0.5585,0,591,335982,1082607
+1082609,2017,2017/04/17,Sunrisers Hyderabad,Punjab Kings,1,0.5512,0,592,335982,1082608
+1082610,2017,2017/04/18,Gujarat Lions,Royal Challengers Bengaluru,0,0.5855,0,593,335982,1082609
+1082611,2017,2017/04/19,Sunrisers Hyderabad,Delhi Capitals,1,0.5978,0,594,335982,1082610
+1082612,2017,2017/04/20,Punjab Kings,Mumbai Indians,0,0.5532,0,595,335982,1082611
+1082613,2017,2017/04/21,Kolkata Knight Riders,Gujarat Lions,0,0.5901,0,596,335982,1082612
+1082614,2017,2017/04/22,Mumbai Indians,Delhi Capitals,1,0.5984,0,597,335982,1082613
+1082615,2017,2017/04/22,Rising Pune Supergiant,Sunrisers Hyderabad,1,0.315,0,598,335982,1082614
+1082616,2017,2017/04/23,Gujarat Lions,Punjab Kings,0,0.4728,0,599,335982,1082615
+1082617,2017,2017/04/23,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.5706,0,600,335982,1082616
+1082618,2017,2017/04/24,Mumbai Indians,Rising Pune Supergiant,0,0.6008,0,601,335982,1082617
+1082620,2017,2017/04/26,Rising Pune Supergiant,Kolkata Knight Riders,0,0.4044,0,602,335982,1082618
+1082621,2017,2017/04/27,Royal Challengers Bengaluru,Gujarat Lions,0,0.5583,0,603,335982,1082620
+1082622,2017,2017/04/28,Kolkata Knight Riders,Delhi Capitals,1,0.681,0,604,335982,1082621
+1082623,2017,2017/04/28,Punjab Kings,Sunrisers Hyderabad,0,0.4849,0,605,335982,1082622
+1082624,2017,2017/04/29,Rising Pune Supergiant,Royal Challengers Bengaluru,1,0.3632,0,606,335982,1082623
+1082625,2017,2017/04/29,Gujarat Lions,Mumbai Indians,0,0.5282,0,607,335982,1082624
+1082626,2017,2017/04/30,Punjab Kings,Delhi Capitals,1,0.5488,0,608,335982,1082625
+1082627,2017,2017/04/30,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.5941,0,609,335982,1082626
+1082628,2017,2017/05/01,Mumbai Indians,Royal Challengers Bengaluru,1,0.6899,0,610,335982,1082627
+1082629,2017,2017/05/01,Rising Pune Supergiant,Gujarat Lions,1,0.4434,0,611,335982,1082628
+1082630,2017,2017/05/02,Delhi Capitals,Sunrisers Hyderabad,1,0.4428,0,612,335982,1082629
+1082631,2017,2017/05/03,Kolkata Knight Riders,Rising Pune Supergiant,0,0.6396,0,613,335982,1082630
+1082632,2017,2017/05/04,Delhi Capitals,Gujarat Lions,1,0.4402,0,614,335982,1082631
+1082633,2017,2017/05/05,Royal Challengers Bengaluru,Punjab Kings,0,0.4857,0,615,335982,1082632
+1082634,2017,2017/05/06,Sunrisers Hyderabad,Rising Pune Supergiant,0,0.6034,0,616,335982,1082633
+1082635,2017,2017/05/06,Delhi Capitals,Mumbai Indians,0,0.5716,0,617,335982,1082634
+1082636,2017,2017/05/07,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.4185,0,618,335982,1082635
+1082637,2017,2017/05/07,Punjab Kings,Gujarat Lions,0,0.4988,0,619,335982,1082636
+1082638,2017,2017/05/08,Sunrisers Hyderabad,Mumbai Indians,1,0.5783,0,620,335982,1082637
+1082639,2017,2017/05/09,Punjab Kings,Kolkata Knight Riders,1,0.4583,0,621,335982,1082638
+1082640,2017,2017/05/10,Gujarat Lions,Delhi Capitals,0,0.4771,0,622,335982,1082639
+1082641,2017,2017/05/11,Mumbai Indians,Punjab Kings,0,0.5778,0,623,335982,1082640
+1082642,2017,2017/05/12,Delhi Capitals,Rising Pune Supergiant,1,0.475,0,624,335982,1082641
+1082643,2017,2017/05/13,Gujarat Lions,Sunrisers Hyderabad,0,0.4982,0,625,335982,1082642
+1082644,2017,2017/05/13,Kolkata Knight Riders,Mumbai Indians,0,0.5225,0,626,335982,1082643
+1082645,2017,2017/05/14,Rising Pune Supergiant,Punjab Kings,1,0.4574,0,627,335982,1082644
+1082646,2017,2017/05/14,Delhi Capitals,Royal Challengers Bengaluru,0,0.5522,0,628,335982,1082645
+1082647,2017,2017/05/16,Mumbai Indians,Rising Pune Supergiant,0,0.6039,0,629,335982,1082646
+1082648,2017,2017/05/17,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.4624,0,630,335982,1082647
+1082649,2017,2017/05/19,Mumbai Indians,Kolkata Knight Riders,1,0.497,0,631,335982,1082648
+1082650,2017,2017/05/21,Mumbai Indians,Rising Pune Supergiant,1,0.5892,0,632,335982,1082649
+1136561,2018,2018/04/07,Mumbai Indians,Chennai Super Kings,0,0.5179,0,633,335982,1082650
+1136562,2018,2018/04/08,Delhi Capitals,Punjab Kings,0,0.4272,0,634,335982,1136561
+1136563,2018,2018/04/08,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.3606,0,635,335982,1136562
+1136564,2018,2018/04/09,Rajasthan Royals,Sunrisers Hyderabad,0,0.476,0,636,335982,1136563
+1136565,2018,2018/04/10,Kolkata Knight Riders,Chennai Super Kings,0,0.5104,0,637,335982,1136564
+1136566,2018,2018/04/11,Rajasthan Royals,Delhi Capitals,1,0.6079,0,638,335982,1136565
+1136567,2018,2018/04/12,Mumbai Indians,Sunrisers Hyderabad,0,0.5012,0,639,335982,1136566
+1136568,2018,2018/04/13,Punjab Kings,Royal Challengers Bengaluru,0,0.4176,0,640,335982,1136567
+1136569,2018,2018/04/14,Mumbai Indians,Delhi Capitals,0,0.5385,0,641,335982,1136568
+1136570,2018,2018/04/14,Kolkata Knight Riders,Sunrisers Hyderabad,0,0.5345,0,642,335982,1136569
+1136571,2018,2018/04/15,Rajasthan Royals,Royal Challengers Bengaluru,1,0.3625,0,643,335982,1136570
+1136572,2018,2018/04/15,Punjab Kings,Chennai Super Kings,1,0.4622,0,644,335982,1136571
+1136573,2018,2018/04/16,Kolkata Knight Riders,Delhi Capitals,1,0.4642,0,645,335982,1136572
+1136574,2018,2018/04/17,Mumbai Indians,Royal Challengers Bengaluru,1,0.4728,0,646,335982,1136573
+1136575,2018,2018/04/18,Rajasthan Royals,Kolkata Knight Riders,0,0.6567,0,647,335982,1136574
+1136576,2018,2018/04/19,Punjab Kings,Sunrisers Hyderabad,1,0.5166,0,648,335982,1136575
+1136577,2018,2018/04/20,Chennai Super Kings,Rajasthan Royals,1,0.5121,0,649,335982,1136576
+1136578,2018,2018/04/21,Kolkata Knight Riders,Punjab Kings,0,0.4591,0,650,335982,1136577
+1136579,2018,2018/04/21,Delhi Capitals,Royal Challengers Bengaluru,0,0.3989,0,651,335982,1136578
+1136580,2018,2018/04/22,Chennai Super Kings,Sunrisers Hyderabad,1,0.48,0,652,335982,1136579
+1136581,2018,2018/04/22,Mumbai Indians,Rajasthan Royals,0,0.4235,0,653,335982,1136580
+1136582,2018,2018/04/23,Punjab Kings,Delhi Capitals,1,0.432,0,654,335982,1136581
+1136583,2018,2018/04/24,Sunrisers Hyderabad,Mumbai Indians,1,0.4508,0,655,335982,1136582
+1136584,2018,2018/04/25,Royal Challengers Bengaluru,Chennai Super Kings,0,0.409,0,656,335982,1136583
+1136585,2018,2018/04/26,Sunrisers Hyderabad,Punjab Kings,1,0.5889,0,657,335982,1136584
+1136586,2018,2018/04/27,Delhi Capitals,Kolkata Knight Riders,1,0.3831,0,658,335982,1136585
+1136587,2018,2018/04/28,Chennai Super Kings,Mumbai Indians,0,0.5452,0,659,335982,1136586
+1136588,2018,2018/04/29,Sunrisers Hyderabad,Rajasthan Royals,1,0.5081,0,660,335982,1136587
+1136589,2018,2018/04/29,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.3645,0,661,335982,1136588
+1136590,2018,2018/04/30,Chennai Super Kings,Delhi Capitals,1,0.5044,0,662,335982,1136589
+1136591,2018,2018/05/01,Royal Challengers Bengaluru,Mumbai Indians,1,0.3292,0,663,335982,1136590
+1136592,2018,2018/05/02,Delhi Capitals,Rajasthan Royals,1,0.4476,0,664,335982,1136591
+1136593,2018,2018/05/03,Chennai Super Kings,Kolkata Knight Riders,0,0.5374,0,665,335982,1136592
+1136594,2018,2018/05/04,Punjab Kings,Mumbai Indians,0,0.4989,0,666,335982,1136593
+1136595,2018,2018/05/05,Royal Challengers Bengaluru,Chennai Super Kings,0,0.4493,0,667,335982,1136594
+1136596,2018,2018/05/05,Delhi Capitals,Sunrisers Hyderabad,0,0.4769,0,668,335982,1136595
+1136597,2018,2018/05/06,Mumbai Indians,Kolkata Knight Riders,1,0.5238,0,669,335982,1136596
+1136598,2018,2018/05/06,Rajasthan Royals,Punjab Kings,0,0.4873,0,670,335982,1136597
+1136599,2018,2018/05/07,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.6397,0,671,335982,1136598
+1136600,2018,2018/05/08,Rajasthan Royals,Punjab Kings,1,0.5166,0,672,335982,1136599
+1136601,2018,2018/05/09,Mumbai Indians,Kolkata Knight Riders,1,0.4951,0,673,335982,1136600
+1136602,2018,2018/05/10,Delhi Capitals,Sunrisers Hyderabad,0,0.5349,0,674,335982,1136601
+1136603,2018,2018/05/11,Chennai Super Kings,Rajasthan Royals,0,0.4921,0,675,335982,1136602
+1136604,2018,2018/05/12,Kolkata Knight Riders,Punjab Kings,1,0.4189,0,676,335982,1136603
+1136605,2018,2018/05/12,Delhi Capitals,Royal Challengers Bengaluru,0,0.4903,0,677,335982,1136604
+1136606,2018,2018/05/13,Sunrisers Hyderabad,Chennai Super Kings,0,0.5532,0,678,335982,1136605
+1136607,2018,2018/05/13,Mumbai Indians,Rajasthan Royals,0,0.5495,0,679,335982,1136606
+1136608,2018,2018/05/14,Punjab Kings,Royal Challengers Bengaluru,0,0.5029,0,680,335982,1136607
+1136609,2018,2018/05/15,Rajasthan Royals,Kolkata Knight Riders,0,0.4216,0,681,335982,1136608
+1136610,2018,2018/05/16,Mumbai Indians,Punjab Kings,1,0.4097,0,682,335982,1136609
+1136611,2018,2018/05/17,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.4779,0,683,335982,1136610
+1136612,2018,2018/05/18,Delhi Capitals,Chennai Super Kings,1,0.4652,0,684,335982,1136611
+1136613,2018,2018/05/19,Rajasthan Royals,Royal Challengers Bengaluru,1,0.5766,0,685,335982,1136612
+1136614,2018,2018/05/19,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.5868,0,686,335982,1136613
+1136615,2018,2018/05/20,Delhi Capitals,Mumbai Indians,1,0.4874,0,687,335982,1136614
+1136616,2018,2018/05/20,Punjab Kings,Chennai Super Kings,0,0.3724,0,688,335982,1136615
+1136617,2018,2018/05/22,Sunrisers Hyderabad,Chennai Super Kings,0,0.4198,0,689,335982,1136616
+1136618,2018,2018/05/23,Kolkata Knight Riders,Rajasthan Royals,1,0.535,0,690,335982,1136617
+1136619,2018,2018/05/25,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.3794,0,691,335982,1136618
+1136620,2018,2018/05/27,Sunrisers Hyderabad,Chennai Super Kings,0,0.4114,0,692,335982,1136619
+1175356,2019,2019/03/23,Royal Challengers Bengaluru,Chennai Super Kings,0,0.4376,0,693,335982,1136620
+1175357,2019,2019/03/24,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.4539,0,694,335982,1175356
+1175358,2019,2019/03/24,Delhi Capitals,Mumbai Indians,1,0.4306,0,695,335982,1175357
+1175359,2019,2019/03/25,Punjab Kings,Rajasthan Royals,1,0.3679,0,696,335982,1175358
+1175360,2019,2019/03/26,Delhi Capitals,Chennai Super Kings,0,0.5297,0,697,335982,1175359
+1175361,2019,2019/03/27,Kolkata Knight Riders,Punjab Kings,1,0.5874,0,698,335982,1175360
+1175362,2019,2019/03/28,Mumbai Indians,Royal Challengers Bengaluru,1,0.5175,0,699,335982,1175361
+1175363,2019,2019/03/29,Rajasthan Royals,Sunrisers Hyderabad,0,0.4066,0,700,335982,1175362
+1175364,2019,2019/03/30,Mumbai Indians,Punjab Kings,0,0.5133,0,701,335982,1175363
+1175365,2019,2019/03/30,Kolkata Knight Riders,Delhi Capitals,0,0.526,0,702,335982,1175364
+1175366,2019,2019/03/31,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.5573,0,703,335982,1175365
+1175367,2019,2019/03/31,Chennai Super Kings,Rajasthan Royals,1,0.6572,0,704,335982,1175366
+1175368,2019,2019/04/01,Punjab Kings,Delhi Capitals,1,0.5675,0,705,335982,1175367
+1175369,2019,2019/04/02,Royal Challengers Bengaluru,Rajasthan Royals,0,0.4442,0,706,335982,1175368
+1175370,2019,2019/04/03,Mumbai Indians,Chennai Super Kings,1,0.5188,0,707,335982,1175369
+1175371,2019,2019/04/04,Delhi Capitals,Sunrisers Hyderabad,0,0.4878,0,708,335982,1175370
+1175372,2019,2019/04/05,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.4148,0,709,335982,1175371
+1178393,2019,2019/04/06,Chennai Super Kings,Punjab Kings,1,0.7253,0,710,335982,1175372
+1178394,2019,2019/04/06,Mumbai Indians,Sunrisers Hyderabad,1,0.3968,0,711,335982,1178393
+1178395,2019,2019/04/07,Royal Challengers Bengaluru,Delhi Capitals,0,0.5123,0,712,335982,1178394
+1178396,2019,2019/04/07,Rajasthan Royals,Kolkata Knight Riders,0,0.5701,0,713,335982,1178395
+1178397,2019,2019/04/08,Sunrisers Hyderabad,Punjab Kings,0,0.5109,0,714,335982,1178396
+1178398,2019,2019/04/09,Kolkata Knight Riders,Chennai Super Kings,0,0.4797,0,715,335982,1178397
+1178399,2019,2019/04/10,Punjab Kings,Mumbai Indians,0,0.4468,0,716,335982,1178398
+1178400,2019,2019/04/11,Rajasthan Royals,Chennai Super Kings,0,0.6004,0,717,335982,1178399
+1178401,2019,2019/04/12,Kolkata Knight Riders,Delhi Capitals,0,0.6309,0,718,335982,1178400
+1178402,2019,2019/04/13,Mumbai Indians,Rajasthan Royals,0,0.5668,0,719,335982,1178401
+1178403,2019,2019/04/13,Punjab Kings,Royal Challengers Bengaluru,0,0.502,0,720,335982,1178402
+1178404,2019,2019/04/14,Kolkata Knight Riders,Chennai Super Kings,0,0.4887,0,721,335982,1178403
+1178405,2019,2019/04/14,Delhi Capitals,Sunrisers Hyderabad,1,0.4072,0,722,335982,1178404
+1178406,2019,2019/04/15,Royal Challengers Bengaluru,Mumbai Indians,0,0.3832,0,723,335982,1178405
+1178407,2019,2019/04/16,Punjab Kings,Rajasthan Royals,1,0.433,0,724,335982,1178406
+1178408,2019,2019/04/17,Chennai Super Kings,Sunrisers Hyderabad,0,0.5148,0,725,335982,1178407
+1178409,2019,2019/04/18,Mumbai Indians,Delhi Capitals,1,0.412,0,726,335982,1178408
+1178410,2019,2019/04/19,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.3651,0,727,335982,1178409
+1178411,2019,2019/04/20,Mumbai Indians,Rajasthan Royals,0,0.4644,0,728,335982,1178410
+1178412,2019,2019/04/20,Punjab Kings,Delhi Capitals,0,0.4898,0,729,335982,1178411
+1178413,2019,2019/04/21,Kolkata Knight Riders,Sunrisers Hyderabad,0,0.4956,0,730,335982,1178412
+1178414,2019,2019/04/21,Royal Challengers Bengaluru,Chennai Super Kings,1,0.4171,0,731,335982,1178413
+1178415,2019,2019/04/22,Rajasthan Royals,Delhi Capitals,0,0.622,0,732,335982,1178414
+1178416,2019,2019/04/23,Sunrisers Hyderabad,Chennai Super Kings,0,0.4372,0,733,335982,1178415
+1178417,2019,2019/04/24,Royal Challengers Bengaluru,Punjab Kings,1,0.395,0,734,335982,1178416
+1178418,2019,2019/04/25,Kolkata Knight Riders,Rajasthan Royals,0,0.53,0,735,335982,1178417
+1178419,2019,2019/04/26,Mumbai Indians,Chennai Super Kings,1,0.4156,0,736,335982,1178418
+1178420,2019,2019/04/27,Sunrisers Hyderabad,Rajasthan Royals,0,0.439,0,737,335982,1178419
+1178421,2019,2019/04/28,Delhi Capitals,Royal Challengers Bengaluru,1,0.4879,0,738,335982,1178420
+1178422,2019,2019/04/28,Kolkata Knight Riders,Mumbai Indians,1,0.4611,0,739,335982,1178421
+1178423,2019,2019/04/29,Sunrisers Hyderabad,Punjab Kings,1,0.6086,0,740,335982,1178422
+1178425,2019,2019/05/01,Chennai Super Kings,Delhi Capitals,1,0.6176,0,741,335982,1178423
+1178426,2019,2019/05/02,Mumbai Indians,Sunrisers Hyderabad,1,0.5861,0,742,335982,1178425
+1178427,2019,2019/05/03,Punjab Kings,Kolkata Knight Riders,0,0.5208,0,743,335982,1178426
+1178428,2019,2019/05/04,Rajasthan Royals,Delhi Capitals,0,0.4274,0,744,335982,1178427
+1178429,2019,2019/05/04,Sunrisers Hyderabad,Royal Challengers Bengaluru,0,0.4201,0,745,335982,1178428
+1178430,2019,2019/05/05,Chennai Super Kings,Punjab Kings,0,0.4636,0,746,335982,1178429
+1178431,2019,2019/05/05,Kolkata Knight Riders,Mumbai Indians,0,0.4379,0,747,335982,1178430
+1181764,2019,2019/05/07,Chennai Super Kings,Mumbai Indians,0,0.6262,0,748,335982,1178431
+1181766,2019,2019/05/08,Sunrisers Hyderabad,Delhi Capitals,0,0.5283,0,749,335982,1181764
+1181767,2019,2019/05/10,Delhi Capitals,Chennai Super Kings,0,0.4415,0,750,335982,1181766
+1181768,2019,2019/05/12,Mumbai Indians,Chennai Super Kings,1,0.4789,0,751,335982,1181767
+1216492,2020/21,2020/09/19,Mumbai Indians,Chennai Super Kings,0,0.482,0,752,335982,1181768
+1216493,2020/21,2020/09/20,Delhi Capitals,Punjab Kings,1,0.4487,0,753,335982,1216492
+1216534,2020/21,2020/09/21,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.4525,0,754,335982,1216493
+1216496,2020/21,2020/09/22,Rajasthan Royals,Chennai Super Kings,1,0.4797,0,755,335982,1216534
+1216508,2020/21,2020/09/23,Mumbai Indians,Kolkata Knight Riders,1,0.5284,0,756,335982,1216496
+1216510,2020/21,2020/09/24,Punjab Kings,Royal Challengers Bengaluru,1,0.4298,0,757,335982,1216508
+1216539,2020/21,2020/09/25,Delhi Capitals,Chennai Super Kings,1,0.4872,0,758,335982,1216510
+1216545,2020/21,2020/09/26,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.5236,0,759,335982,1216539
+1216527,2020/21,2020/09/27,Punjab Kings,Rajasthan Royals,0,0.4737,0,760,335982,1216545
+1216547,2020/21,2020/09/28,Royal Challengers Bengaluru,Mumbai Indians,1,0.5589,0,761,335982,1216527
+1216532,2020/21,2020/09/29,Sunrisers Hyderabad,Delhi Capitals,1,0.4791,0,762,335982,1216547
+1216504,2020/21,2020/09/30,Kolkata Knight Riders,Rajasthan Royals,1,0.5378,0,763,335982,1216532
+1216503,2020/21,2020/10/01,Mumbai Indians,Punjab Kings,1,0.5136,0,764,335982,1216504
+1216516,2020/21,2020/10/02,Sunrisers Hyderabad,Chennai Super Kings,1,0.5181,0,765,335982,1216503
+1216514,2020/21,2020/10/03,Rajasthan Royals,Royal Challengers Bengaluru,0,0.553,0,766,335982,1216516
+1216515,2020/21,2020/10/03,Delhi Capitals,Kolkata Knight Riders,1,0.5351,0,767,335982,1216514
+1216513,2020/21,2020/10/04,Punjab Kings,Chennai Super Kings,0,0.552,0,768,335982,1216515
+1216538,2020/21,2020/10/04,Mumbai Indians,Sunrisers Hyderabad,1,0.544,0,769,335982,1216513
+1216519,2020/21,2020/10/05,Delhi Capitals,Royal Challengers Bengaluru,1,0.5936,0,770,335982,1216538
+1216511,2020/21,2020/10/06,Mumbai Indians,Rajasthan Royals,1,0.4945,0,771,335982,1216519
+1216501,2020/21,2020/10/07,Kolkata Knight Riders,Chennai Super Kings,1,0.5197,0,772,335982,1216511
+1216542,2020/21,2020/10/08,Sunrisers Hyderabad,Punjab Kings,1,0.6031,0,773,335982,1216501
+1216500,2020/21,2020/10/09,Delhi Capitals,Rajasthan Royals,1,0.5783,0,774,335982,1216542
+1216523,2020/21,2020/10/10,Kolkata Knight Riders,Punjab Kings,1,0.6219,0,775,335982,1216500
+1216525,2020/21,2020/10/10,Royal Challengers Bengaluru,Chennai Super Kings,1,0.6724,0,776,335982,1216523
+1216507,2020/21,2020/10/11,Sunrisers Hyderabad,Rajasthan Royals,0,0.6317,0,777,335982,1216525
+1216529,2020/21,2020/10/11,Delhi Capitals,Mumbai Indians,0,0.656,0,778,335982,1216507
+1216540,2020/21,2020/10/12,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.5749,0,779,335982,1216529
+1216528,2020/21,2020/10/13,Chennai Super Kings,Sunrisers Hyderabad,1,0.5541,0,780,335982,1216540
+1216543,2020/21,2020/10/14,Delhi Capitals,Rajasthan Royals,1,0.6124,0,781,335982,1216528
+1216531,2020/21,2020/10/15,Royal Challengers Bengaluru,Punjab Kings,0,0.6365,0,782,335982,1216543
+1216526,2020/21,2020/10/16,Kolkata Knight Riders,Mumbai Indians,0,0.595,0,783,335982,1216531
+1216509,2020/21,2020/10/17,Chennai Super Kings,Delhi Capitals,0,0.5547,0,784,335982,1216526
+1216522,2020/21,2020/10/17,Rajasthan Royals,Royal Challengers Bengaluru,0,0.6061,0,785,335982,1216509
+1216512,2020/21,2020/10/18,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5329,0,786,335982,1216522
+1216517,2020/21,2020/10/18,Mumbai Indians,Punjab Kings,0,0.5902,0,787,335982,1216512
+1216533,2020/21,2020/10/19,Chennai Super Kings,Rajasthan Royals,0,0.5339,0,788,335982,1216517
+1216546,2020/21,2020/10/20,Delhi Capitals,Punjab Kings,0,0.5815,0,789,335982,1216533
+1216494,2020/21,2020/10/21,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.5258,0,790,335982,1216546
+1216518,2020/21,2020/10/22,Rajasthan Royals,Sunrisers Hyderabad,0,0.5343,0,791,335982,1216494
+1216521,2020/21,2020/10/23,Chennai Super Kings,Mumbai Indians,0,0.4743,0,792,335982,1216518
+1216497,2020/21,2020/10/24,Kolkata Knight Riders,Delhi Capitals,1,0.4952,0,793,335982,1216521
+1216498,2020/21,2020/10/24,Punjab Kings,Sunrisers Hyderabad,1,0.556,0,794,335982,1216497
+1216541,2020/21,2020/10/25,Mumbai Indians,Rajasthan Royals,0,0.5469,0,795,335982,1216498
+1216544,2020/21,2020/10/25,Royal Challengers Bengaluru,Chennai Super Kings,0,0.5544,0,796,335982,1216541
+1216520,2020/21,2020/10/26,Kolkata Knight Riders,Punjab Kings,0,0.4351,0,797,335982,1216544
+1216524,2020/21,2020/10/27,Sunrisers Hyderabad,Delhi Capitals,1,0.449,0,798,335982,1216520
+1216499,2020/21,2020/10/28,Royal Challengers Bengaluru,Mumbai Indians,0,0.4524,0,799,335982,1216524
+1216536,2020/21,2020/10/29,Kolkata Knight Riders,Chennai Super Kings,0,0.5193,0,800,335982,1216499
+1216537,2020/21,2020/10/30,Punjab Kings,Rajasthan Royals,0,0.4687,0,801,335982,1216536
+1216502,2020/21,2020/10/31,Royal Challengers Bengaluru,Sunrisers Hyderabad,0,0.5159,0,802,335982,1216537
+1216535,2020/21,2020/10/31,Delhi Capitals,Mumbai Indians,0,0.5381,0,803,335982,1216502
+1216506,2020/21,2020/11/01,Punjab Kings,Chennai Super Kings,0,0.4563,0,804,335982,1216535
+1216530,2020/21,2020/11/01,Kolkata Knight Riders,Rajasthan Royals,1,0.5342,0,805,335982,1216506
+1216505,2020/21,2020/11/02,Royal Challengers Bengaluru,Delhi Capitals,0,0.4587,0,806,335982,1216530
+1216495,2020/21,2020/11/03,Mumbai Indians,Sunrisers Hyderabad,0,0.5385,0,807,335982,1216505
+1237177,2020/21,2020/11/05,Mumbai Indians,Delhi Capitals,1,0.4154,0,808,335982,1216495
+1237178,2020/21,2020/11/06,Royal Challengers Bengaluru,Sunrisers Hyderabad,0,0.46,0,809,335982,1237177
+1237180,2020/21,2020/11/08,Delhi Capitals,Sunrisers Hyderabad,1,0.4222,0,810,335982,1237178
+1237181,2020/21,2020/11/10,Delhi Capitals,Mumbai Indians,0,0.4505,0,811,335982,1237180
+1254058,2021,2021/04/09,Mumbai Indians,Royal Challengers Bengaluru,0,0.4874,0,812,335982,1237181
+1254059,2021,2021/04/10,Chennai Super Kings,Delhi Capitals,0,0.4728,0,813,335982,1254058
+1254060,2021,2021/04/11,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5248,0,814,335982,1254059
+1254061,2021,2021/04/12,Punjab Kings,Rajasthan Royals,1,0.4692,0,815,335982,1254060
+1254062,2021,2021/04/13,Mumbai Indians,Kolkata Knight Riders,1,0.5064,0,816,335982,1254061
+1254063,2021,2021/04/14,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.5179,0,817,335982,1254062
+1254064,2021,2021/04/15,Delhi Capitals,Rajasthan Royals,0,0.4932,0,818,335982,1254063
+1254065,2021,2021/04/16,Punjab Kings,Chennai Super Kings,0,0.4605,0,819,335982,1254064
+1254066,2021,2021/04/17,Mumbai Indians,Sunrisers Hyderabad,1,0.5571,0,820,335982,1254065
+1254067,2021,2021/04/18,Royal Challengers Bengaluru,Kolkata Knight Riders,1,0.518,0,821,335982,1254066
+1254068,2021,2021/04/18,Punjab Kings,Delhi Capitals,0,0.4458,0,822,335982,1254067
+1254069,2021,2021/04/19,Chennai Super Kings,Rajasthan Royals,1,0.5567,0,823,335982,1254068
+1254070,2021,2021/04/20,Mumbai Indians,Delhi Capitals,0,0.5771,0,824,335982,1254069
+1254071,2021,2021/04/21,Punjab Kings,Sunrisers Hyderabad,0,0.517,0,825,335982,1254070
+1254072,2021,2021/04/21,Chennai Super Kings,Kolkata Knight Riders,1,0.5089,0,826,335982,1254071
+1254073,2021,2021/04/22,Rajasthan Royals,Royal Challengers Bengaluru,0,0.4445,0,827,335982,1254072
+1254074,2021,2021/04/23,Mumbai Indians,Punjab Kings,0,0.5258,0,828,335982,1254073
+1254075,2021,2021/04/24,Kolkata Knight Riders,Rajasthan Royals,0,0.3898,0,829,335982,1254074
+1254076,2021,2021/04/25,Chennai Super Kings,Royal Challengers Bengaluru,1,0.5325,0,830,335982,1254075
+1254077,2021,2021/04/25,Delhi Capitals,Sunrisers Hyderabad,1,0.5151,0,831,335982,1254076
+1254078,2021,2021/04/26,Punjab Kings,Kolkata Knight Riders,0,0.4643,0,832,335982,1254077
+1254079,2021,2021/04/27,Royal Challengers Bengaluru,Delhi Capitals,1,0.4336,0,833,335982,1254078
+1254080,2021,2021/04/28,Sunrisers Hyderabad,Chennai Super Kings,0,0.4868,0,834,335982,1254079
+1254081,2021,2021/04/29,Rajasthan Royals,Mumbai Indians,0,0.4414,0,835,335982,1254080
+1254082,2021,2021/04/29,Kolkata Knight Riders,Delhi Capitals,0,0.4253,0,836,335982,1254081
+1254083,2021,2021/04/30,Punjab Kings,Royal Challengers Bengaluru,1,0.4171,0,837,335982,1254082
+1254084,2021,2021/05/01,Chennai Super Kings,Mumbai Indians,0,0.4641,0,838,335982,1254083
+1254085,2021,2021/05/02,Rajasthan Royals,Sunrisers Hyderabad,1,0.4165,0,839,335982,1254084
+1254086,2021,2021/05/02,Punjab Kings,Delhi Capitals,0,0.4492,0,840,335982,1254085
+1254104,2021,2021/09/19,Chennai Super Kings,Mumbai Indians,1,0.4319,0,841,335982,1254086
+1254087,2021,2021/09/20,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.3657,0,842,335982,1254104
+1254111,2021,2021/09/21,Rajasthan Royals,Punjab Kings,1,0.4152,0,843,335982,1254087
+1254105,2021,2021/09/22,Sunrisers Hyderabad,Delhi Capitals,0,0.5028,0,844,335982,1254111
+1254096,2021,2021/09/23,Mumbai Indians,Kolkata Knight Riders,0,0.4333,0,845,335982,1254105
+1254113,2021,2021/09/24,Royal Challengers Bengaluru,Chennai Super Kings,0,0.385,0,846,335982,1254096
+1254097,2021,2021/09/25,Delhi Capitals,Rajasthan Royals,1,0.4794,0,847,335982,1254113
+1254107,2021,2021/09/25,Punjab Kings,Sunrisers Hyderabad,1,0.4475,0,848,335982,1254097
+1254098,2021,2021/09/26,Kolkata Knight Riders,Chennai Super Kings,0,0.4231,0,849,335982,1254107
+1254108,2021,2021/09/26,Royal Challengers Bengaluru,Mumbai Indians,1,0.3748,0,850,335982,1254098
+1254100,2021,2021/09/27,Rajasthan Royals,Sunrisers Hyderabad,0,0.4887,0,851,335982,1254108
+1254092,2021,2021/09/28,Delhi Capitals,Kolkata Knight Riders,0,0.439,0,852,335982,1254100
+1254099,2021,2021/09/28,Punjab Kings,Mumbai Indians,0,0.398,0,853,335982,1254092
+1254103,2021,2021/09/29,Rajasthan Royals,Royal Challengers Bengaluru,0,0.4773,0,854,335982,1254099
+1254091,2021,2021/09/30,Sunrisers Hyderabad,Chennai Super Kings,0,0.3707,0,855,335982,1254103
+1254102,2021,2021/10/01,Kolkata Knight Riders,Punjab Kings,0,0.425,0,856,335982,1254091
+1254089,2021,2021/10/02,Chennai Super Kings,Rajasthan Royals,0,0.473,0,857,335982,1254102
+1254112,2021,2021/10/02,Mumbai Indians,Delhi Capitals,0,0.4475,0,858,335982,1254089
+1254090,2021,2021/10/03,Royal Challengers Bengaluru,Punjab Kings,1,0.3801,0,859,335982,1254112
+1254109,2021,2021/10/03,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.4197,0,860,335982,1254090
+1254110,2021,2021/10/04,Chennai Super Kings,Delhi Capitals,0,0.4195,0,861,335982,1254109
+1254093,2021,2021/10/05,Rajasthan Royals,Mumbai Indians,0,0.3829,0,862,335982,1254110
+1254095,2021,2021/10/06,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.4009,0,863,335982,1254093
+1254094,2021,2021/10/07,Chennai Super Kings,Punjab Kings,0,0.4043,0,864,335982,1254095
+1254106,2021,2021/10/07,Kolkata Knight Riders,Rajasthan Royals,1,0.4756,0,865,335982,1254094
+1254088,2021,2021/10/08,Mumbai Indians,Sunrisers Hyderabad,1,0.4585,0,866,335982,1254106
+1254101,2021,2021/10/08,Delhi Capitals,Royal Challengers Bengaluru,0,0.3631,0,867,335982,1254088
+1254114,2021,2021/10/10,Delhi Capitals,Chennai Super Kings,0,0.3905,0,868,335982,1254101
+1254115,2021,2021/10/11,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.3856,0,869,335982,1254114
+1254116,2021,2021/10/13,Delhi Capitals,Kolkata Knight Riders,0,0.4075,0,870,335982,1254115
+1254117,2021,2021/10/15,Chennai Super Kings,Kolkata Knight Riders,1,0.3982,0,871,335982,1254116
+1304047,2022,2022/03/26,Chennai Super Kings,Kolkata Knight Riders,0,0.4782,0,872,335982,1254117
+1304048,2022,2022/03/27,Mumbai Indians,Delhi Capitals,0,0.37,0,873,335982,1304047
+1304049,2022,2022/03/27,Royal Challengers Bengaluru,Punjab Kings,0,0.3677,0,874,335982,1304048
+1304050,2022,2022/03/28,Lucknow Super Giants,Gujarat Titans,0,0.4541,0,875,335982,1304049
+1304051,2022,2022/03/29,Rajasthan Royals,Sunrisers Hyderabad,1,0.4413,0,876,335982,1304050
+1304052,2022,2022/03/30,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.3171,0,877,335982,1304051
+1304053,2022,2022/03/31,Chennai Super Kings,Lucknow Super Giants,0,0.4797,0,878,335982,1304052
+1304054,2022,2022/04/01,Punjab Kings,Kolkata Knight Riders,0,0.3432,0,879,335982,1304053
+1304055,2022,2022/04/02,Rajasthan Royals,Mumbai Indians,1,0.3624,0,880,335982,1304054
+1304056,2022,2022/04/02,Gujarat Titans,Delhi Capitals,1,0.4354,0,881,335982,1304055
+1304057,2022,2022/04/03,Punjab Kings,Chennai Super Kings,1,0.356,0,882,335982,1304056
+1304058,2022,2022/04/04,Lucknow Super Giants,Sunrisers Hyderabad,1,0.4386,0,883,335982,1304057
+1304059,2022,2022/04/05,Rajasthan Royals,Royal Challengers Bengaluru,0,0.3636,0,884,335982,1304058
+1304060,2022,2022/04/06,Mumbai Indians,Kolkata Knight Riders,0,0.3674,0,885,335982,1304059
+1304061,2022,2022/04/07,Delhi Capitals,Lucknow Super Giants,0,0.4783,0,886,335982,1304060
+1304062,2022,2022/04/08,Punjab Kings,Gujarat Titans,0,0.4251,0,887,335982,1304061
+1304063,2022,2022/04/09,Chennai Super Kings,Sunrisers Hyderabad,0,0.4687,0,888,335982,1304062
+1304064,2022,2022/04/09,Mumbai Indians,Royal Challengers Bengaluru,0,0.3202,0,889,335982,1304063
+1304065,2022,2022/04/10,Delhi Capitals,Kolkata Knight Riders,1,0.3292,0,890,335982,1304064
+1304066,2022,2022/04/10,Rajasthan Royals,Lucknow Super Giants,1,0.4723,0,891,335982,1304065
+1304067,2022,2022/04/11,Gujarat Titans,Sunrisers Hyderabad,0,0.4666,0,892,335982,1304066
+1304068,2022,2022/04/12,Chennai Super Kings,Royal Challengers Bengaluru,1,0.3388,0,893,335982,1304067
+1304069,2022,2022/04/13,Punjab Kings,Mumbai Indians,1,0.3792,0,894,335982,1304068
+1304070,2022,2022/04/14,Gujarat Titans,Rajasthan Royals,1,0.4608,0,895,335982,1304069
+1304071,2022,2022/04/15,Kolkata Knight Riders,Sunrisers Hyderabad,0,0.4687,0,896,335982,1304070
+1304072,2022,2022/04/16,Lucknow Super Giants,Mumbai Indians,1,0.4437,0,897,335982,1304071
+1304073,2022,2022/04/16,Royal Challengers Bengaluru,Delhi Capitals,1,0.3317,0,898,335982,1304072
+1304074,2022,2022/04/17,Punjab Kings,Sunrisers Hyderabad,0,0.4355,0,899,335982,1304073
+1304075,2022,2022/04/17,Chennai Super Kings,Gujarat Titans,0,0.429,0,900,335982,1304074
+1304076,2022,2022/04/18,Rajasthan Royals,Kolkata Knight Riders,1,0.4421,0,901,335982,1304075
+1304077,2022,2022/04/19,Royal Challengers Bengaluru,Lucknow Super Giants,1,0.4463,0,902,335982,1304076
+1304078,2022,2022/04/20,Punjab Kings,Delhi Capitals,0,0.3995,0,903,335982,1304077
+1304079,2022,2022/04/21,Mumbai Indians,Chennai Super Kings,0,0.3874,0,904,335982,1304078
+1304080,2022,2022/04/22,Rajasthan Royals,Delhi Capitals,1,0.4681,0,905,335982,1304079
+1304081,2022,2022/04/23,Gujarat Titans,Kolkata Knight Riders,1,0.4767,0,906,335982,1304080
+1304082,2022,2022/04/23,Royal Challengers Bengaluru,Sunrisers Hyderabad,0,0.4906,0,907,335982,1304081
+1304083,2022,2022/04/24,Lucknow Super Giants,Mumbai Indians,1,0.4288,0,908,335982,1304082
+1304084,2022,2022/04/25,Punjab Kings,Chennai Super Kings,1,0.3566,0,909,335982,1304083
+1304085,2022,2022/04/26,Rajasthan Royals,Royal Challengers Bengaluru,1,0.4424,0,910,335982,1304084
+1304086,2022,2022/04/27,Sunrisers Hyderabad,Gujarat Titans,0,0.4948,0,911,335982,1304085
+1304087,2022,2022/04/28,Kolkata Knight Riders,Delhi Capitals,0,0.4508,0,912,335982,1304086
+1304088,2022,2022/04/29,Lucknow Super Giants,Punjab Kings,1,0.5143,0,913,335982,1304087
+1304089,2022,2022/04/30,Royal Challengers Bengaluru,Gujarat Titans,0,0.5122,0,914,335982,1304088
+1304090,2022,2022/04/30,Rajasthan Royals,Mumbai Indians,0,0.4565,0,915,335982,1304089
+1304091,2022,2022/05/01,Lucknow Super Giants,Delhi Capitals,1,0.5141,0,916,335982,1304090
+1304092,2022,2022/05/01,Chennai Super Kings,Sunrisers Hyderabad,1,0.4682,0,917,335982,1304091
+1304093,2022,2022/05/02,Rajasthan Royals,Kolkata Knight Riders,0,0.5181,0,918,335982,1304092
+1304094,2022,2022/05/03,Gujarat Titans,Punjab Kings,0,0.4965,0,919,335982,1304093
+1304095,2022,2022/05/04,Royal Challengers Bengaluru,Chennai Super Kings,1,0.3597,0,920,335982,1304094
+1304096,2022,2022/05/05,Delhi Capitals,Sunrisers Hyderabad,1,0.4502,0,921,335982,1304095
+1304097,2022,2022/05/06,Mumbai Indians,Gujarat Titans,1,0.4943,0,922,335982,1304096
+1304098,2022,2022/05/07,Punjab Kings,Rajasthan Royals,0,0.4797,0,923,335982,1304097
+1304099,2022,2022/05/07,Lucknow Super Giants,Kolkata Knight Riders,1,0.4992,0,924,335982,1304098
+1304100,2022,2022/05/08,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.4779,0,925,335982,1304099
+1304101,2022,2022/05/08,Chennai Super Kings,Delhi Capitals,1,0.4209,0,926,335982,1304100
+1304102,2022,2022/05/09,Kolkata Knight Riders,Mumbai Indians,1,0.374,0,927,335982,1304101
+1304103,2022,2022/05/10,Gujarat Titans,Lucknow Super Giants,1,0.5653,0,928,335982,1304102
+1304104,2022,2022/05/11,Rajasthan Royals,Delhi Capitals,0,0.5153,0,929,335982,1304103
+1304105,2022,2022/05/12,Chennai Super Kings,Mumbai Indians,0,0.3921,0,930,335982,1304104
+1304106,2022,2022/05/13,Punjab Kings,Royal Challengers Bengaluru,1,0.4193,0,931,335982,1304105
+1304107,2022,2022/05/14,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5232,0,932,335982,1304106
+1304108,2022,2022/05/15,Chennai Super Kings,Gujarat Titans,0,0.5184,0,933,335982,1304107
+1304109,2022,2022/05/15,Rajasthan Royals,Lucknow Super Giants,1,0.5492,0,934,335982,1304108
+1304110,2022,2022/05/16,Delhi Capitals,Punjab Kings,1,0.43,0,935,335982,1304109
+1304111,2022,2022/05/17,Sunrisers Hyderabad,Mumbai Indians,1,0.3968,0,936,335982,1304110
+1304112,2022,2022/05/18,Lucknow Super Giants,Kolkata Knight Riders,1,0.51,0,937,335982,1304111
+1304113,2022,2022/05/19,Gujarat Titans,Royal Challengers Bengaluru,0,0.4897,0,938,335982,1304112
+1304114,2022,2022/05/20,Chennai Super Kings,Rajasthan Royals,0,0.4761,0,939,335982,1304113
+1304115,2022,2022/05/21,Delhi Capitals,Mumbai Indians,0,0.4278,0,940,335982,1304114
+1304116,2022,2022/05/22,Sunrisers Hyderabad,Punjab Kings,0,0.4795,0,941,335982,1304115
+1312197,2022,2022/05/24,Rajasthan Royals,Gujarat Titans,0,0.4972,0,942,335982,1304116
+1312198,2022,2022/05/25,Royal Challengers Bengaluru,Lucknow Super Giants,1,0.5151,0,943,335982,1312197
+1312199,2022,2022/05/27,Royal Challengers Bengaluru,Rajasthan Royals,0,0.428,0,944,335982,1312198
+1312200,2022,2022/05/29,Rajasthan Royals,Gujarat Titans,0,0.492,0,945,335982,1312199
+1359475,2023,2023/03/31,Chennai Super Kings,Gujarat Titans,0,0.4339,0,946,335982,1312200
+1359476,2023,2023/04/01,Punjab Kings,Kolkata Knight Riders,1,0.4547,0,947,335982,1359475
+1359477,2023,2023/04/01,Lucknow Super Giants,Delhi Capitals,1,0.5082,0,948,335982,1359476
+1359478,2023,2023/04/02,Rajasthan Royals,Sunrisers Hyderabad,1,0.4311,0,949,335982,1359477
+1359479,2023,2023/04/02,Mumbai Indians,Royal Challengers Bengaluru,0,0.4597,0,950,335982,1359478
+1359480,2023,2023/04/03,Chennai Super Kings,Lucknow Super Giants,1,0.5422,0,951,335982,1359479
+1359481,2023,2023/04/04,Delhi Capitals,Gujarat Titans,0,0.4026,0,952,335982,1359480
+1359482,2023,2023/04/05,Punjab Kings,Rajasthan Royals,1,0.4807,0,953,335982,1359481
+1359483,2023,2023/04/06,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.4341,0,954,335982,1359482
+1359484,2023,2023/04/07,Sunrisers Hyderabad,Lucknow Super Giants,0,0.5171,0,955,335982,1359483
+1359485,2023,2023/04/08,Rajasthan Royals,Delhi Capitals,1,0.4572,0,956,335982,1359484
+1359486,2023,2023/04/08,Mumbai Indians,Chennai Super Kings,0,0.416,0,957,335982,1359485
+1359487,2023,2023/04/09,Gujarat Titans,Kolkata Knight Riders,0,0.5426,0,958,335982,1359486
+1359488,2023,2023/04/09,Punjab Kings,Sunrisers Hyderabad,0,0.4343,0,959,335982,1359487
+1359489,2023,2023/04/10,Royal Challengers Bengaluru,Lucknow Super Giants,0,0.5066,0,960,335982,1359488
+1359490,2023,2023/04/11,Delhi Capitals,Mumbai Indians,0,0.425,0,961,335982,1359489
+1359491,2023,2023/04/12,Rajasthan Royals,Chennai Super Kings,1,0.4223,0,962,335982,1359490
+1359492,2023,2023/04/13,Punjab Kings,Gujarat Titans,0,0.4351,0,963,335982,1359491
+1359493,2023,2023/04/14,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.454,0,964,335982,1359492
+1359494,2023,2023/04/15,Royal Challengers Bengaluru,Delhi Capitals,1,0.4142,0,965,335982,1359493
+1359495,2023,2023/04/15,Lucknow Super Giants,Punjab Kings,0,0.5297,0,966,335982,1359494
+1359496,2023,2023/04/16,Kolkata Knight Riders,Mumbai Indians,0,0.4446,0,967,335982,1359495
+1359497,2023,2023/04/16,Gujarat Titans,Rajasthan Royals,0,0.453,0,968,335982,1359496
+1359498,2023,2023/04/17,Chennai Super Kings,Royal Challengers Bengaluru,1,0.3938,0,969,335982,1359497
+1359499,2023,2023/04/18,Mumbai Indians,Sunrisers Hyderabad,1,0.4084,0,970,335982,1359498
+1359500,2023,2023/04/19,Lucknow Super Giants,Rajasthan Royals,1,0.4587,0,971,335982,1359499
+1359501,2023,2023/04/20,Royal Challengers Bengaluru,Punjab Kings,1,0.4126,0,972,335982,1359500
+1359502,2023,2023/04/20,Kolkata Knight Riders,Delhi Capitals,0,0.3996,0,973,335982,1359501
+1359503,2023,2023/04/21,Sunrisers Hyderabad,Chennai Super Kings,0,0.4458,0,974,335982,1359502
+1359504,2023,2023/04/22,Gujarat Titans,Lucknow Super Giants,1,0.5484,0,975,335982,1359503
+1359505,2023,2023/04/22,Punjab Kings,Mumbai Indians,1,0.4567,0,976,335982,1359504
+1359506,2023,2023/04/23,Royal Challengers Bengaluru,Rajasthan Royals,1,0.4713,0,977,335982,1359505
+1359507,2023,2023/04/23,Chennai Super Kings,Kolkata Knight Riders,1,0.5001,0,978,335982,1359506
+1359508,2023,2023/04/24,Delhi Capitals,Sunrisers Hyderabad,1,0.4045,0,979,335982,1359507
+1359509,2023,2023/04/25,Gujarat Titans,Mumbai Indians,1,0.5449,0,980,335982,1359508
+1359510,2023,2023/04/26,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.4556,0,981,335982,1359509
+1359511,2023,2023/04/27,Rajasthan Royals,Chennai Super Kings,1,0.518,0,982,335982,1359510
+1359512,2023,2023/04/28,Lucknow Super Giants,Punjab Kings,1,0.5138,0,983,335982,1359511
+1359513,2023,2023/04/29,Kolkata Knight Riders,Gujarat Titans,0,0.4757,0,984,335982,1359512
+1359514,2023,2023/04/29,Sunrisers Hyderabad,Delhi Capitals,1,0.4406,0,985,335982,1359513
+1359515,2023,2023/04/30,Chennai Super Kings,Punjab Kings,0,0.6056,0,986,335982,1359514
+1359516,2023,2023/04/30,Rajasthan Royals,Mumbai Indians,0,0.5266,0,987,335982,1359515
+1359517,2023,2023/05/01,Royal Challengers Bengaluru,Lucknow Super Giants,1,0.5129,0,988,335982,1359516
+1359518,2023,2023/05/02,Delhi Capitals,Gujarat Titans,1,0.4153,0,989,335982,1359517
+1359520,2023,2023/05/03,Punjab Kings,Mumbai Indians,0,0.5174,0,990,335982,1359518
+1359521,2023,2023/05/04,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5029,0,991,335982,1359520
+1359522,2023,2023/05/05,Rajasthan Royals,Gujarat Titans,0,0.482,0,992,335982,1359521
+1359523,2023,2023/05/06,Mumbai Indians,Chennai Super Kings,0,0.478,0,993,335982,1359522
+1359524,2023,2023/05/06,Royal Challengers Bengaluru,Delhi Capitals,0,0.4273,0,994,335982,1359523
+1359525,2023,2023/05/07,Gujarat Titans,Lucknow Super Giants,1,0.4918,0,995,335982,1359524
+1359526,2023,2023/05/07,Rajasthan Royals,Sunrisers Hyderabad,0,0.5228,0,996,335982,1359525
+1359527,2023,2023/05/08,Punjab Kings,Kolkata Knight Riders,0,0.4824,0,997,335982,1359526
+1359528,2023,2023/05/09,Royal Challengers Bengaluru,Mumbai Indians,0,0.4371,0,998,335982,1359527
+1359529,2023,2023/05/10,Chennai Super Kings,Delhi Capitals,1,0.5005,0,999,335982,1359528
+1359530,2023,2023/05/11,Kolkata Knight Riders,Rajasthan Royals,0,0.45,0,1000,335982,1359529
+1359531,2023,2023/05/12,Mumbai Indians,Gujarat Titans,1,0.419,0,1001,335982,1359530
+1359532,2023,2023/05/13,Sunrisers Hyderabad,Lucknow Super Giants,0,0.495,0,1002,335982,1359531
+1359533,2023,2023/05/13,Punjab Kings,Delhi Capitals,1,0.3837,0,1003,335982,1359532
+1359534,2023,2023/05/14,Royal Challengers Bengaluru,Rajasthan Royals,1,0.4378,0,1004,335982,1359533
+1359535,2023,2023/05/14,Chennai Super Kings,Kolkata Knight Riders,0,0.5306,0,1005,335982,1359534
+1359536,2023,2023/05/15,Gujarat Titans,Sunrisers Hyderabad,1,0.5307,0,1006,335982,1359535
+1359537,2023,2023/05/16,Lucknow Super Giants,Mumbai Indians,1,0.5231,0,1007,335982,1359536
+1359538,2023,2023/05/17,Delhi Capitals,Punjab Kings,1,0.4935,0,1008,335982,1359537
+1359539,2023,2023/05/18,Sunrisers Hyderabad,Royal Challengers Bengaluru,0,0.4685,0,1009,335982,1359538
+1359540,2023,2023/05/19,Punjab Kings,Rajasthan Royals,0,0.4905,0,1010,335982,1359539
+1359541,2023,2023/05/20,Chennai Super Kings,Delhi Capitals,1,0.4449,0,1011,335982,1359540
+1359542,2023,2023/05/20,Lucknow Super Giants,Kolkata Knight Riders,1,0.5615,0,1012,335982,1359541
+1359543,2023,2023/05/21,Sunrisers Hyderabad,Mumbai Indians,0,0.4401,0,1013,335982,1359542
+1359544,2023,2023/05/21,Royal Challengers Bengaluru,Gujarat Titans,0,0.4475,0,1014,335982,1359543
+1370350,2023,2023/05/23,Chennai Super Kings,Gujarat Titans,1,0.5122,0,1015,335982,1359544
+1370351,2023,2023/05/24,Mumbai Indians,Lucknow Super Giants,1,0.5034,0,1016,335982,1370350
+1370352,2023,2023/05/26,Gujarat Titans,Mumbai Indians,1,0.5212,0,1017,335982,1370351
+1370353,2023,2023/05/29,Gujarat Titans,Chennai Super Kings,0,0.5272,0,1018,335982,1370352
+1422119,2024,2024/03/22,Royal Challengers Bengaluru,Chennai Super Kings,0,0.4814,0,1019,335982,1370353
+1422120,2024,2024/03/23,Delhi Capitals,Punjab Kings,0,0.4402,0,1020,335982,1422119
+1422121,2024,2024/03/23,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5029,0,1021,335982,1422120
+1422122,2024,2024/03/24,Rajasthan Royals,Lucknow Super Giants,1,0.4702,0,1022,335982,1422121
+1422123,2024,2024/03/24,Gujarat Titans,Mumbai Indians,1,0.5241,0,1023,335982,1422122
+1422124,2024,2024/03/25,Punjab Kings,Royal Challengers Bengaluru,0,0.429,0,1024,335982,1422123
+1422125,2024,2024/03/26,Chennai Super Kings,Gujarat Titans,1,0.594,0,1025,335982,1422124
+1422126,2024,2024/03/27,Sunrisers Hyderabad,Mumbai Indians,1,0.4659,0,1026,335982,1422125
+1422127,2024,2024/03/28,Rajasthan Royals,Delhi Capitals,1,0.5211,0,1027,335982,1422126
+1422128,2024,2024/03/29,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.4296,0,1028,335982,1422127
+1422129,2024,2024/03/30,Lucknow Super Giants,Punjab Kings,1,0.6124,0,1029,335982,1422128
+1422130,2024,2024/03/31,Sunrisers Hyderabad,Gujarat Titans,0,0.4568,0,1030,335982,1422129
+1422131,2024,2024/03/31,Delhi Capitals,Chennai Super Kings,1,0.4191,0,1031,335982,1422130
+1422132,2024,2024/04/01,Mumbai Indians,Rajasthan Royals,0,0.4697,0,1032,335982,1422131
+1422133,2024,2024/04/02,Lucknow Super Giants,Royal Challengers Bengaluru,1,0.5721,0,1033,335982,1422132
+1422134,2024,2024/04/03,Kolkata Knight Riders,Delhi Capitals,1,0.4381,0,1034,335982,1422133
+1422135,2024,2024/04/04,Gujarat Titans,Punjab Kings,0,0.5763,0,1035,335982,1422134
+1422136,2024,2024/04/05,Chennai Super Kings,Sunrisers Hyderabad,0,0.5222,0,1036,335982,1422135
+1422137,2024,2024/04/06,Royal Challengers Bengaluru,Rajasthan Royals,0,0.4858,0,1037,335982,1422136
+1422138,2024,2024/04/07,Mumbai Indians,Delhi Capitals,1,0.407,0,1038,335982,1422137
+1422139,2024,2024/04/07,Lucknow Super Giants,Gujarat Titans,1,0.5591,0,1039,335982,1422138
+1426260,2024,2024/04/08,Kolkata Knight Riders,Chennai Super Kings,0,0.4276,0,1040,335982,1422139
+1426261,2024,2024/04/09,Sunrisers Hyderabad,Punjab Kings,1,0.4868,0,1041,335982,1426260
+1426262,2024,2024/04/10,Rajasthan Royals,Gujarat Titans,0,0.5279,0,1042,335982,1426261
+1426263,2024,2024/04/11,Royal Challengers Bengaluru,Mumbai Indians,0,0.4134,0,1043,335982,1426262
+1426264,2024,2024/04/12,Lucknow Super Giants,Delhi Capitals,0,0.6724,0,1044,335982,1426263
+1426265,2024,2024/04/13,Punjab Kings,Rajasthan Royals,0,0.4727,0,1045,335982,1426264
+1426266,2024,2024/04/14,Lucknow Super Giants,Kolkata Knight Riders,0,0.5859,0,1046,335982,1426265
+1426267,2024,2024/04/14,Chennai Super Kings,Mumbai Indians,1,0.4094,0,1047,335982,1426266
+1426268,2024,2024/04/15,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.407,0,1048,335982,1426267
+1426269,2024,2024/04/16,Kolkata Knight Riders,Rajasthan Royals,0,0.4739,0,1049,335982,1426268
+1426270,2024,2024/04/17,Gujarat Titans,Delhi Capitals,0,0.5577,0,1050,335982,1426269
+1426271,2024,2024/04/18,Mumbai Indians,Punjab Kings,1,0.4927,0,1051,335982,1426270
+1426272,2024,2024/04/19,Chennai Super Kings,Lucknow Super Giants,0,0.5536,0,1052,335982,1426271
+1426273,2024,2024/04/20,Sunrisers Hyderabad,Delhi Capitals,1,0.506,0,1053,335982,1426272
+1426274,2024,2024/04/21,Kolkata Knight Riders,Royal Challengers Bengaluru,1,0.4956,0,1054,335982,1426273
+1426275,2024,2024/04/21,Punjab Kings,Gujarat Titans,0,0.4576,0,1055,335982,1426274
+1426276,2024,2024/04/22,Mumbai Indians,Rajasthan Royals,0,0.4178,0,1056,335982,1426275
+1426277,2024,2024/04/23,Chennai Super Kings,Lucknow Super Giants,0,0.5873,0,1057,335982,1426276
+1426278,2024,2024/04/24,Delhi Capitals,Gujarat Titans,1,0.4379,0,1058,335982,1426277
+1426279,2024,2024/04/25,Royal Challengers Bengaluru,Sunrisers Hyderabad,1,0.47,0,1059,335982,1426278
+1426280,2024,2024/04/26,Kolkata Knight Riders,Punjab Kings,0,0.4909,0,1060,335982,1426279
+1426281,2024,2024/04/27,Delhi Capitals,Mumbai Indians,1,0.4769,0,1061,335982,1426280
+1426282,2024,2024/04/27,Lucknow Super Giants,Rajasthan Royals,0,0.5784,0,1062,335982,1426281
+1426283,2024,2024/04/28,Gujarat Titans,Royal Challengers Bengaluru,0,0.5542,0,1063,335982,1426282
+1426284,2024,2024/04/28,Chennai Super Kings,Sunrisers Hyderabad,1,0.546,0,1064,335982,1426283
+1426285,2024,2024/04/29,Delhi Capitals,Kolkata Knight Riders,0,0.4827,0,1065,335982,1426284
+1426286,2024,2024/04/30,Mumbai Indians,Lucknow Super Giants,0,0.4851,0,1066,335982,1426285
+1426287,2024,2024/05/01,Chennai Super Kings,Punjab Kings,0,0.4943,0,1067,335982,1426286
+1426288,2024,2024/05/02,Sunrisers Hyderabad,Rajasthan Royals,1,0.5002,0,1068,335982,1426287
+1426289,2024,2024/05/03,Kolkata Knight Riders,Mumbai Indians,1,0.3749,0,1069,335982,1426288
+1426290,2024,2024/05/04,Gujarat Titans,Royal Challengers Bengaluru,0,0.5073,0,1070,335982,1426289
+1426291,2024,2024/05/05,Chennai Super Kings,Punjab Kings,1,0.4366,0,1071,335982,1426290
+1426292,2024,2024/05/05,Kolkata Knight Riders,Lucknow Super Giants,1,0.4498,0,1072,335982,1426291
+1426293,2024,2024/05/06,Sunrisers Hyderabad,Mumbai Indians,0,0.477,0,1073,335982,1426292
+1426294,2024,2024/05/07,Delhi Capitals,Rajasthan Royals,1,0.4776,0,1074,335982,1426293
+1426295,2024,2024/05/08,Lucknow Super Giants,Sunrisers Hyderabad,0,0.5466,0,1075,335982,1426294
+1426296,2024,2024/05/09,Royal Challengers Bengaluru,Punjab Kings,1,0.5051,0,1076,335982,1426295
+1426297,2024,2024/05/10,Gujarat Titans,Chennai Super Kings,1,0.5043,0,1077,335982,1426296
+1426298,2024,2024/05/11,Kolkata Knight Riders,Mumbai Indians,1,0.5035,0,1078,335982,1426297
+1426299,2024,2024/05/12,Rajasthan Royals,Chennai Super Kings,0,0.4392,0,1079,335982,1426298
+1426300,2024,2024/05/12,Royal Challengers Bengaluru,Delhi Capitals,1,0.5909,0,1080,335982,1426299
+1426302,2024,2024/05/14,Delhi Capitals,Lucknow Super Giants,1,0.5234,0,1081,335982,1426300
+1426303,2024,2024/05/15,Rajasthan Royals,Punjab Kings,0,0.5071,0,1082,335982,1426302
+1426305,2024,2024/05/17,Lucknow Super Giants,Mumbai Indians,1,0.5657,0,1083,335982,1426303
+1426306,2024,2024/05/18,Royal Challengers Bengaluru,Chennai Super Kings,1,0.513,0,1084,335982,1426305
+1426307,2024,2024/05/19,Punjab Kings,Sunrisers Hyderabad,0,0.4776,0,1085,335982,1426306
+1426309,2024,2024/05/21,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.5702,0,1086,335982,1426307
+1426310,2024,2024/05/22,Royal Challengers Bengaluru,Rajasthan Royals,0,0.5207,0,1087,335982,1426309
+1426311,2024,2024/05/24,Sunrisers Hyderabad,Rajasthan Royals,1,0.4794,0,1088,335982,1426310
+1426312,2024,2024/05/26,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.4638,0,1089,335982,1426311
+1473438,2025,2025/03/22,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.5432,0,1090,335982,1426312
+1473439,2025,2025/03/23,Sunrisers Hyderabad,Rajasthan Royals,1,0.5311,0,1091,335982,1473438
+1473440,2025,2025/03/23,Mumbai Indians,Chennai Super Kings,0,0.4335,0,1092,335982,1473439
+1473441,2025,2025/03/24,Lucknow Super Giants,Delhi Capitals,0,0.5545,0,1093,335982,1473440
+1473442,2025,2025/03/25,Punjab Kings,Gujarat Titans,1,0.3987,0,1094,335982,1473441
+1473443,2025,2025/03/26,Rajasthan Royals,Kolkata Knight Riders,0,0.5226,0,1095,335982,1473442
+1473444,2025,2025/03/27,Sunrisers Hyderabad,Lucknow Super Giants,0,0.5449,0,1096,335982,1473443
+1473445,2025,2025/03/28,Royal Challengers Bengaluru,Chennai Super Kings,1,0.3905,0,1097,335982,1473444
+1473446,2025,2025/03/29,Gujarat Titans,Mumbai Indians,1,0.5442,0,1098,335982,1473445
+1473447,2025,2025/03/30,Sunrisers Hyderabad,Delhi Capitals,0,0.4837,0,1099,335982,1473446
+1473448,2025,2025/03/30,Rajasthan Royals,Chennai Super Kings,1,0.4527,0,1100,335982,1473447
+1473449,2025,2025/03/31,Kolkata Knight Riders,Mumbai Indians,0,0.4536,0,1101,335982,1473448
+1473450,2025,2025/04/01,Lucknow Super Giants,Punjab Kings,0,0.5142,0,1102,335982,1473449
+1473451,2025,2025/04/02,Royal Challengers Bengaluru,Gujarat Titans,0,0.5246,0,1103,335982,1473450
+1473452,2025,2025/04/03,Kolkata Knight Riders,Sunrisers Hyderabad,1,0.5401,0,1104,335982,1473451
+1473453,2025,2025/04/04,Lucknow Super Giants,Mumbai Indians,1,0.5587,0,1105,335982,1473452
+1473454,2025,2025/04/05,Delhi Capitals,Chennai Super Kings,1,0.4598,0,1106,335982,1473453
+1473455,2025,2025/04/05,Rajasthan Royals,Punjab Kings,1,0.4582,0,1107,335982,1473454
+1473457,2025,2025/04/06,Sunrisers Hyderabad,Gujarat Titans,0,0.4628,0,1108,335982,1473455
+1473458,2025,2025/04/07,Royal Challengers Bengaluru,Mumbai Indians,1,0.4476,0,1109,335982,1473457
+1473456,2025,2025/04/08,Lucknow Super Giants,Kolkata Knight Riders,1,0.5709,0,1110,335982,1473458
+1473459,2025,2025/04/08,Punjab Kings,Chennai Super Kings,1,0.5211,0,1111,335982,1473456
+1473460,2025,2025/04/09,Gujarat Titans,Rajasthan Royals,1,0.5363,0,1112,335982,1473459
+1473461,2025,2025/04/10,Royal Challengers Bengaluru,Delhi Capitals,0,0.5092,0,1113,335982,1473460
+1473462,2025,2025/04/11,Chennai Super Kings,Kolkata Knight Riders,0,0.4673,0,1114,335982,1473461
+1473463,2025,2025/04/12,Gujarat Titans,Lucknow Super Giants,0,0.5336,0,1115,335982,1473462
+1473464,2025,2025/04/12,Punjab Kings,Sunrisers Hyderabad,0,0.4838,0,1116,335982,1473463
+1473465,2025,2025/04/13,Rajasthan Royals,Royal Challengers Bengaluru,0,0.5157,0,1117,335982,1473464
+1473466,2025,2025/04/13,Mumbai Indians,Delhi Capitals,1,0.4761,0,1118,335982,1473465
+1473467,2025,2025/04/14,Lucknow Super Giants,Chennai Super Kings,0,0.4801,0,1119,335982,1473466
+1473468,2025,2025/04/15,Punjab Kings,Kolkata Knight Riders,1,0.5556,0,1120,335982,1473467
+1473469,2025,2025/04/16,Delhi Capitals,Rajasthan Royals,1,0.4674,0,1121,335982,1473468
+1473470,2025,2025/04/17,Sunrisers Hyderabad,Mumbai Indians,0,0.4311,0,1122,335982,1473469
+1473471,2025,2025/04/18,Royal Challengers Bengaluru,Punjab Kings,0,0.4901,0,1123,335982,1473470
+1473472,2025,2025/04/19,Delhi Capitals,Gujarat Titans,0,0.4839,0,1124,335982,1473471
+1473473,2025,2025/04/19,Lucknow Super Giants,Rajasthan Royals,1,0.5202,0,1125,335982,1473472
+1473474,2025,2025/04/20,Punjab Kings,Royal Challengers Bengaluru,0,0.5,0,1126,335982,1473473
+1473475,2025,2025/04/20,Chennai Super Kings,Mumbai Indians,0,0.4383,0,1127,335982,1473474
+1473476,2025,2025/04/21,Gujarat Titans,Kolkata Knight Riders,1,0.4832,0,1128,335982,1473475
+1473477,2025,2025/04/22,Lucknow Super Giants,Delhi Capitals,0,0.5483,0,1129,335982,1473476
+1473478,2025,2025/04/23,Sunrisers Hyderabad,Mumbai Indians,0,0.4611,0,1130,335982,1473477
+1473479,2025,2025/04/24,Royal Challengers Bengaluru,Rajasthan Royals,1,0.4806,0,1131,335982,1473478
+1473480,2025,2025/04/25,Chennai Super Kings,Sunrisers Hyderabad,0,0.4874,0,1132,335982,1473479
+1473482,2025,2025/04/27,Mumbai Indians,Lucknow Super Giants,1,0.5273,0,1133,335982,1473480
+1473483,2025,2025/04/27,Delhi Capitals,Royal Challengers Bengaluru,0,0.5151,0,1134,335982,1473482
+1473484,2025,2025/04/28,Gujarat Titans,Rajasthan Royals,0,0.4977,0,1135,335982,1473483
+1473485,2025,2025/04/29,Kolkata Knight Riders,Delhi Capitals,1,0.4534,0,1136,335982,1473484
+1473486,2025,2025/04/30,Chennai Super Kings,Punjab Kings,0,0.4351,0,1137,335982,1473485
+1473487,2025,2025/05/01,Mumbai Indians,Rajasthan Royals,1,0.4585,0,1138,335982,1473486
+1473488,2025,2025/05/02,Gujarat Titans,Sunrisers Hyderabad,1,0.5139,0,1139,335982,1473487
+1473489,2025,2025/05/03,Royal Challengers Bengaluru,Chennai Super Kings,1,0.4807,0,1140,335982,1473488
+1473490,2025,2025/05/04,Kolkata Knight Riders,Rajasthan Royals,1,0.486,0,1141,335982,1473489
+1473491,2025,2025/05/04,Punjab Kings,Lucknow Super Giants,1,0.5148,0,1142,335982,1473490
+1473493,2025,2025/05/06,Mumbai Indians,Gujarat Titans,0,0.5613,0,1143,335982,1473491
+1473494,2025,2025/05/07,Kolkata Knight Riders,Chennai Super Kings,0,0.5291,0,1144,335982,1473493
+1473497,2025,2025/05/18,Punjab Kings,Rajasthan Royals,1,0.5231,0,1145,335982,1473494
+1473498,2025,2025/05/18,Delhi Capitals,Gujarat Titans,0,0.4575,0,1146,335982,1473497
+1473499,2025,2025/05/19,Lucknow Super Giants,Sunrisers Hyderabad,0,0.4737,0,1147,335982,1473498
+1473500,2025,2025/05/20,Chennai Super Kings,Rajasthan Royals,0,0.4148,0,1148,335982,1473499
+1473501,2025,2025/05/21,Mumbai Indians,Delhi Capitals,1,0.5031,0,1149,335982,1473500
+1473502,2025,2025/05/22,Lucknow Super Giants,Gujarat Titans,1,0.4199,0,1150,335982,1473501
+1473503,2025,2025/05/23,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.4907,0,1151,335982,1473502
+1485779,2025,2025/05/24,Punjab Kings,Delhi Capitals,0,0.5535,0,1152,335982,1473503
+1473504,2025,2025/05/25,Chennai Super Kings,Gujarat Titans,1,0.3968,0,1153,335982,1485779
+1473505,2025,2025/05/25,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.4832,0,1154,335982,1473504
+1473506,2025,2025/05/26,Mumbai Indians,Punjab Kings,0,0.5103,0,1155,335982,1473505
+1473507,2025,2025/05/27,Lucknow Super Giants,Royal Challengers Bengaluru,0,0.4552,0,1156,335982,1473506
+1473508,2025,2025/05/29,Punjab Kings,Royal Challengers Bengaluru,0,0.4496,0,1157,335982,1473507
+1473509,2025,2025/05/30,Mumbai Indians,Gujarat Titans,1,0.4981,0,1158,335982,1473508
+1473510,2025,2025/06/01,Mumbai Indians,Punjab Kings,0,0.4618,0,1159,335982,1473509
+1473511,2025,2025/06/03,Royal Challengers Bengaluru,Punjab Kings,1,0.4505,0,1160,335982,1473510
+1527674,2026,2026/03/28,Sunrisers Hyderabad,Royal Challengers Bengaluru,0,0.4527,0,1161,335982,1473511
+1527675,2026,2026/03/29,Kolkata Knight Riders,Mumbai Indians,0,0.4239,0,1162,335982,1527674
+1527676,2026,2026/03/30,Chennai Super Kings,Rajasthan Royals,0,0.5115,0,1163,335982,1527675
+1527677,2026,2026/03/31,Gujarat Titans,Punjab Kings,0,0.4784,0,1164,335982,1527676
+1527678,2026,2026/04/01,Lucknow Super Giants,Delhi Capitals,0,0.5272,0,1165,335982,1527677
+1527679,2026,2026/04/02,Sunrisers Hyderabad,Kolkata Knight Riders,1,0.4495,0,1166,335982,1527678
+1527680,2026,2026/04/03,Chennai Super Kings,Punjab Kings,0,0.4213,0,1167,335982,1527679
+1527681,2026,2026/04/04,Mumbai Indians,Delhi Capitals,0,0.5253,0,1168,335982,1527680
+1527682,2026,2026/04/04,Rajasthan Royals,Gujarat Titans,1,0.4582,0,1169,335982,1527681
+1527683,2026,2026/04/05,Sunrisers Hyderabad,Lucknow Super Giants,0,0.5013,0,1170,335982,1527682
+1527684,2026,2026/04/05,Royal Challengers Bengaluru,Chennai Super Kings,1,0.4797,0,1171,335982,1527683
+1527686,2026,2026/04/07,Rajasthan Royals,Mumbai Indians,1,0.4549,0,1172,335982,1527684
+1527687,2026,2026/04/08,Gujarat Titans,Delhi Capitals,1,0.5196,0,1173,335982,1527686
+1527688,2026,2026/04/09,Kolkata Knight Riders,Lucknow Super Giants,0,0.4557,0,1174,335982,1527687
+1527689,2026,2026/04/10,Royal Challengers Bengaluru,Rajasthan Royals,0,0.472,0,1175,335982,1527688
+1527690,2026,2026/04/11,Sunrisers Hyderabad,Punjab Kings,0,0.5049,0,1176,335982,1527689
+1527691,2026,2026/04/11,Chennai Super Kings,Delhi Capitals,1,0.4769,0,1177,335982,1527690
+1527692,2026,2026/04/12,Lucknow Super Giants,Gujarat Titans,0,0.4349,0,1178,335982,1527691
+1527693,2026,2026/04/12,Royal Challengers Bengaluru,Mumbai Indians,1,0.4465,0,1179,335982,1527692
+1529264,2026,2026/04/13,Sunrisers Hyderabad,Rajasthan Royals,1,0.4726,0,1180,335982,1527693
+1529265,2026,2026/04/14,Chennai Super Kings,Kolkata Knight Riders,1,0.4566,0,1181,335982,1529264
+1529266,2026,2026/04/15,Lucknow Super Giants,Royal Challengers Bengaluru,0,0.4276,0,1182,335982,1529265
+1529267,2026,2026/04/16,Mumbai Indians,Punjab Kings,0,0.4344,0,1183,335982,1529266
+1529268,2026,2026/04/17,Kolkata Knight Riders,Gujarat Titans,0,0.4649,0,1184,335982,1529267
+1529269,2026,2026/04/18,Royal Challengers Bengaluru,Delhi Capitals,0,0.5555,0,1185,335982,1529268
+1529270,2026,2026/04/18,Sunrisers Hyderabad,Chennai Super Kings,1,0.4623,0,1186,335982,1529269
+1529271,2026,2026/04/19,Rajasthan Royals,Kolkata Knight Riders,0,0.4989,0,1187,335982,1529270
+1529272,2026,2026/04/19,Punjab Kings,Lucknow Super Giants,1,0.5195,0,1188,335982,1529271
+1529273,2026,2026/04/20,Mumbai Indians,Gujarat Titans,1,0.4709,0,1189,335982,1529272
+1529274,2026,2026/04/21,Sunrisers Hyderabad,Delhi Capitals,1,0.4935,0,1190,335982,1529273
+1529275,2026,2026/04/22,Rajasthan Royals,Lucknow Super Giants,1,0.4613,0,1191,335982,1529274
+1529276,2026,2026/04/23,Chennai Super Kings,Mumbai Indians,1,0.4339,0,1192,335982,1529275
+1529277,2026,2026/04/24,Gujarat Titans,Royal Challengers Bengaluru,0,0.4395,0,1193,335982,1529276
+1529278,2026,2026/04/25,Delhi Capitals,Punjab Kings,0,0.4117,0,1194,335982,1529277
+1529279,2026,2026/04/25,Rajasthan Royals,Sunrisers Hyderabad,0,0.453,0,1195,335982,1529278
+1529280,2026,2026/04/26,Chennai Super Kings,Gujarat Titans,0,0.5174,0,1196,335982,1529279
+1529281,2026,2026/04/26,Kolkata Knight Riders,Lucknow Super Giants,1,0.4702,0,1197,335982,1529280
+1529282,2026,2026/04/27,Delhi Capitals,Royal Challengers Bengaluru,0,0.4264,0,1198,335982,1529281
+1529283,2026,2026/04/28,Punjab Kings,Rajasthan Royals,0,0.4833,0,1199,335982,1529282
+1529284,2026,2026/04/29,Mumbai Indians,Sunrisers Hyderabad,0,0.4431,0,1200,335982,1529283
+1529285,2026,2026/04/30,Royal Challengers Bengaluru,Gujarat Titans,0,0.484,0,1201,335982,1529284
+1529286,2026,2026/05/01,Rajasthan Royals,Delhi Capitals,0,0.5245,0,1202,335982,1529285
+1529287,2026,2026/05/02,Mumbai Indians,Chennai Super Kings,0,0.4895,0,1203,335982,1529286
+1529288,2026,2026/05/03,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.5001,0,1204,335982,1529287
+1529289,2026,2026/05/03,Punjab Kings,Gujarat Titans,0,0.495,0,1205,335982,1529288
+1529290,2026,2026/05/04,Lucknow Super Giants,Mumbai Indians,0,0.4181,0,1206,335982,1529289
+1529291,2026,2026/05/05,Delhi Capitals,Chennai Super Kings,0,0.4549,0,1207,335982,1529290
+1529292,2026,2026/05/06,Sunrisers Hyderabad,Punjab Kings,1,0.4095,0,1208,335982,1529291
+1529293,2026,2026/05/07,Lucknow Super Giants,Royal Challengers Bengaluru,1,0.4341,0,1209,335982,1529292
+1529294,2026,2026/05/08,Delhi Capitals,Kolkata Knight Riders,0,0.406,0,1210,335982,1529293
+1529295,2026,2026/05/09,Gujarat Titans,Rajasthan Royals,1,0.4036,0,1211,335982,1529294
+1529296,2026,2026/05/10,Lucknow Super Giants,Chennai Super Kings,0,0.4872,0,1212,335982,1529295
+1529297,2026,2026/05/10,Mumbai Indians,Royal Challengers Bengaluru,0,0.4363,0,1213,335982,1529296
+1529298,2026,2026/05/11,Punjab Kings,Delhi Capitals,0,0.4728,0,1214,335982,1529297
+1529299,2026,2026/05/12,Gujarat Titans,Sunrisers Hyderabad,1,0.4682,0,1215,335982,1529298
+1529300,2026,2026/05/13,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.4245,0,1216,335982,1529299
+1529301,2026,2026/05/14,Punjab Kings,Mumbai Indians,0,0.3935,0,1217,335982,1529300
+1529302,2026,2026/05/15,Chennai Super Kings,Lucknow Super Giants,0,0.4894,0,1218,335982,1529301
+1529303,2026,2026/05/16,Kolkata Knight Riders,Gujarat Titans,1,0.421,0,1219,335982,1529302
+1529304,2026,2026/05/17,Royal Challengers Bengaluru,Punjab Kings,1,0.3997,0,1220,335982,1529303
+1529305,2026,2026/05/17,Rajasthan Royals,Delhi Capitals,0,0.4208,0,1221,335982,1529304
+1529306,2026,2026/05/18,Chennai Super Kings,Sunrisers Hyderabad,0,0.4816,0,1222,335982,1529305
+1529307,2026,2026/05/19,Lucknow Super Giants,Rajasthan Royals,0,0.486,0,1223,335982,1529306
+1529308,2026,2026/05/20,Mumbai Indians,Kolkata Knight Riders,0,0.428,0,1224,335982,1529307
+1529309,2026,2026/05/21,Gujarat Titans,Chennai Super Kings,1,0.514,0,1225,335982,1529308
+1529310,2026,2026/05/22,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,0.4234,0,1226,335982,1529309
+1529311,2026,2026/05/23,Lucknow Super Giants,Punjab Kings,0,0.4257,0,1227,335982,1529310
+1529312,2026,2026/05/24,Rajasthan Royals,Mumbai Indians,1,0.406,0,1228,335982,1529311
+1529313,2026,2026/05/24,Delhi Capitals,Kolkata Knight Riders,1,0.3345,0,1229,335982,1529312
+1535462,2026,2026/05/26,Royal Challengers Bengaluru,Gujarat Titans,1,0.4185,0,1230,335982,1529313
+1535463,2026,2026/05/27,Rajasthan Royals,Sunrisers Hyderabad,1,0.4564,0,1231,335982,1535462
+1535464,2026,2026/05/29,Rajasthan Royals,Gujarat Titans,0,0.4341,0,1232,335982,1535463
+1535465,2026,2026/05/31,Gujarat Titans,Royal Challengers Bengaluru,0,0.4275,0,1233,335982,1535464

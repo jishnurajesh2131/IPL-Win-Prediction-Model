@@ -1,0 +1,112 @@
+{
+  "overall_test": {
+    "log_loss": 0.5735,
+    "brier_score": 0.1967,
+    "ece": 0.0649,
+    "accuracy": 0.6829,
+    "roc_auc": 0.7742
+  },
+  "innings_1": {
+    "log_loss": 0.6702,
+    "brier_score": 0.2384,
+    "ece": 0.0736,
+    "accuracy": 0.5892,
+    "roc_auc": 0.6418
+  },
+  "innings_2": {
+    "log_loss": 0.4678,
+    "brier_score": 0.1511,
+    "ece": 0.0671,
+    "accuracy": 0.7851,
+    "roc_auc": 0.8713
+  },
+  "three_phase": {
+    "powerplay": {
+      "log_loss": 0.6355,
+      "brier_score": 0.2225,
+      "ece": 0.0633,
+      "accuracy": 0.6237,
+      "roc_auc": 0.6945
+    },
+    "middle": {
+      "log_loss": 0.56,
+      "brier_score": 0.1907,
+      "ece": 0.0648,
+      "accuracy": 0.6995,
+      "roc_auc": 0.7893
+    },
+    "death": {
+      "log_loss": 0.5135,
+      "brier_score": 0.1727,
+      "ece": 0.0846,
+      "accuracy": 0.7323,
+      "roc_auc": 0.8388
+    }
+  },
+  "six_phase": [
+    {
+      "Window": "0\u20132 overs",
+      "Deliveries": 5422,
+      "Matches": 213,
+      "Log Loss": 0.6656,
+      "Brier Score": 0.2358,
+      "ECE": 0.0709,
+      "Accuracy": "58.58%",
+      "ROC-AUC": 0.6456
+    },
+    {
+      "Window": "2\u20136 overs",
+      "Deliveries": 10609,
+      "Matches": 213,
+      "Log Loss": 0.6201,
+      "Brier Score": 0.2157,
+      "ECE": 0.0653,
+      "Accuracy": "64.31%",
+      "ROC-AUC": 0.7189
+    },
+    {
+      "Window": "6\u201310 overs",
+      "Deliveries": 10521,
+      "Matches": 213,
+      "Log Loss": 0.5832,
+      "Brier Score": 0.2001,
+      "ECE": 0.0646,
+      "Accuracy": "67.44%",
+      "ROC-AUC": 0.7638
+    },
+    {
+      "Window": "10\u201315 overs",
+      "Deliveries": 13066,
+      "Matches": 213,
+      "Log Loss": 0.5413,
+      "Brier Score": 0.1831,
+      "ECE": 0.065,
+      "Accuracy": "71.97%",
+      "ROC-AUC": 0.808
+    },
+    {
+      "Window": "15\u201318 overs",
+      "Deliveries": 7362,
+      "Matches": 210,
+      "Log Loss": 0.5052,
+      "Brier Score": 0.1691,
+      "ECE": 0.0832,
+      "Accuracy": "74.04%",
+      "ROC-AUC": 0.8445
+    },
+    {
+      "Window": "18\u201320 overs",
+      "Deliveries": 3887,
+      "Matches": 205,
+      "Log Loss": 0.5291,
+      "Brier Score": 0.1796,
+      "ECE": 0.0901,
+      "Accuracy": "71.70%",
+      "ROC-AUC": 0.8266
+    }
+  ],
+  "match_level": {
+    "mean_log_loss": 0.5364,
+    "mean_brier": 0.1749
+  }
+}

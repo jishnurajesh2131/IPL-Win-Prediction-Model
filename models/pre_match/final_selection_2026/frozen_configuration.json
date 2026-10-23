@@ -1,0 +1,42 @@
+{
+  "model_name": "Model D1: Core Dynamic RF (Form+RPO+Econ)",
+  "model_version": "final_selection_2026_v1",
+  "feature_set": [
+    "team_a_form_last_5",
+    "team_b_form_last_5",
+    "form_diff_last_5",
+    "team_a_batting_rpo_last_5",
+    "team_b_batting_rpo_last_5",
+    "batting_rpo_diff_last_5",
+    "team_a_bowling_econ_last_5",
+    "team_b_bowling_econ_last_5",
+    "bowling_econ_diff_last_5"
+  ],
+  "feature_count": 9,
+  "elo_k_factor": 16.0,
+  "hyperparameters": {
+    "n_estimators": 100,
+    "max_depth": 5,
+    "min_samples_leaf": 5,
+    "random_state": 42
+  },
+  "calibration": "Uncalibrated (Natural Dispersion)",
+  "classification_threshold": 0.5,
+  "validation_selection_metrics": {
+    "model_name": "Model D1: Core Dynamic RF (Form+RPO+Econ)",
+    "accuracy": 0.585,
+    "log_loss": 0.6782,
+    "brier_score": 0.2427,
+    "ece": 0.0445,
+    "auc": 0.6078,
+    "mean_p": 0.4921,
+    "std_p": 0.052,
+    "min_p": 0.3455,
+    "max_p": 0.6727,
+    "pct_gt_60": 2.72,
+    "pct_gt_70": 0.0,
+    "pct_lt_40": 4.08,
+    "pct_lt_30": 0.0,
+    "pct_outside_45_55": 32.65
+  }
+}

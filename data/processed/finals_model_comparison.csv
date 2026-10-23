@@ -1,0 +1,20 @@
+season,match_id,teams,baseline_p_a,baseline_p_b,candidate_p_a,candidate_p_b,actual_winner,baseline_correct,candidate_correct,baseline_logloss,candidate_logloss
+2007/08,336040,Chennai Super Kings vs Rajasthan Royals,0.4434,0.5566,0.5393,0.4607,Rajasthan Royals,1,0,0.5859,0.775
+2009,392239,Royal Challengers Bengaluru vs Deccan Chargers,0.6736,0.3264,0.5349,0.4651,Deccan Chargers,0,0,1.1196,0.7655
+2009/10,419165,Chennai Super Kings vs Mumbai Indians,0.5209,0.4791,0.5431,0.4569,Chennai Super Kings,1,1,0.6522,0.6105
+2011,501271,Chennai Super Kings vs Royal Challengers Bengaluru,0.7437,0.2563,0.5539,0.4461,Chennai Super Kings,1,1,0.2961,0.5908
+2012,548381,Kolkata Knight Riders vs Chennai Super Kings,0.5964,0.4036,0.5314,0.4686,Kolkata Knight Riders,1,1,0.5168,0.6322
+2013,598073,Chennai Super Kings vs Mumbai Indians,0.7351,0.2649,0.5428,0.4572,Mumbai Indians,0,0,1.3284,0.7826
+2014,734049,Kolkata Knight Riders vs Punjab Kings,0.5218,0.4782,0.5353,0.4647,Kolkata Knight Riders,1,1,0.6505,0.6249
+2015,829823,Mumbai Indians vs Chennai Super Kings,0.6114,0.3886,0.5334,0.4666,Mumbai Indians,1,1,0.492,0.6285
+2016,981019,Royal Challengers Bengaluru vs Sunrisers Hyderabad,0.5977,0.4023,0.527,0.473,Sunrisers Hyderabad,0,0,0.9106,0.7487
+2017,1082650,Mumbai Indians vs Rising Pune Supergiant,0.5892,0.4108,0.5373,0.4627,Mumbai Indians,1,1,0.529,0.6212
+2018,1136620,Sunrisers Hyderabad vs Chennai Super Kings,0.4114,0.5886,0.4878,0.5122,Chennai Super Kings,1,1,0.53,0.669
+2019,1181768,Mumbai Indians vs Chennai Super Kings,0.4789,0.5211,0.5095,0.4905,Mumbai Indians,0,1,0.7363,0.6743
+2020/21,1237181,Delhi Capitals vs Mumbai Indians,0.4505,0.5495,0.5096,0.4904,Mumbai Indians,1,0,0.5987,0.7125
+2021,1254117,Chennai Super Kings vs Kolkata Knight Riders,0.3982,0.6018,0.508,0.492,Chennai Super Kings,0,1,0.9208,0.6773
+2022,1312200,Rajasthan Royals vs Gujarat Titans,0.492,0.508,0.5299,0.4701,Gujarat Titans,1,0,0.6773,0.7548
+2023,1370353,Gujarat Titans vs Chennai Super Kings,0.5272,0.4728,0.5184,0.4816,Chennai Super Kings,0,0,0.7491,0.7306
+2024,1426312,Sunrisers Hyderabad vs Kolkata Knight Riders,0.4638,0.5362,0.5064,0.4936,Kolkata Knight Riders,1,0,0.6232,0.706
+2025,1473511,Royal Challengers Bengaluru vs Punjab Kings,0.4505,0.5495,0.5022,0.4978,Royal Challengers Bengaluru,0,1,0.7974,0.6888
+2026,1535465,Gujarat Titans vs Royal Challengers Bengaluru,0.4275,0.5725,0.522,0.478,Royal Challengers Bengaluru,1,0,0.5577,0.7381

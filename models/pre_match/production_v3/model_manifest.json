@@ -1,0 +1,14 @@
+{
+  "status": "PRODUCTION_FROZEN_V3",
+  "selection_split": "Validation 2022-2023 ONLY",
+  "best_probability_model": "Calibrated Robust RF (Platt CV=5)",
+  "best_hybrid_model": "Hybrid Ensemble C (0.50 CRF + 0.30 CXGB + 0.20 Elo)",
+  "validation_logloss": 0.6919,
+  "validation_brier": 0.2494,
+  "validation_ece": 0.0766,
+  "test_logloss": 0.6969,
+  "test_brier": 0.2519,
+  "test_ece": 0.0715,
+  "test_accuracy": 0.4372,
+  "optimal_threshold": 0.5
+}

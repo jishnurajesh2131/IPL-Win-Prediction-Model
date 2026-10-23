@@ -1,0 +1,10 @@
+match_id,season,date,team_1,team_2,result_type,reason
+501265,2011,2011/05/21,Delhi Capitals,Pune Warriors,no_result,Abandoned match without official result (no_result)
+829763,2015,2015/04/29,Royal Challengers Bengaluru,Rajasthan Royals,no_result,Abandoned match without official result (no_result)
+829813,2015,2015/05/17,Royal Challengers Bengaluru,Delhi Capitals,no_result,Abandoned match without official result (no_result)
+1178424,2019,2019/04/30,Royal Challengers Bengaluru,Rajasthan Royals,no_result,Abandoned match without official result (no_result)
+1359519,2023,2023/05/03,Lucknow Super Giants,Chennai Super Kings,no_result,Abandoned match without official result (no_result)
+1473481,2025,2025/04/26,Punjab Kings,Kolkata Knight Riders,no_result,Abandoned match without official result (no_result)
+1473492,2025,2025/05/05,Delhi Capitals,Sunrisers Hyderabad,no_result,Abandoned match without official result (no_result)
+1473495,2025,2025/05/08,Punjab Kings,Delhi Capitals,no_result,Abandoned match without official result (no_result)
+1527685,2026,2026/04/06,Kolkata Knight Riders,Punjab Kings,no_result,Abandoned match without official result (no_result)

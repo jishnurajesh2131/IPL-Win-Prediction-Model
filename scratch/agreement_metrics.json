@@ -1,0 +1,119 @@
+{
+  "total_deliveries_compared": 2664,
+  "mismatches_discrete": 0,
+  "max_overall_numerical_diff": 0.0,
+  "feature_diffs": {
+    "current_innings": 0.0,
+    "current_innings_runs": 0.0,
+    "current_innings_wickets": 0.0,
+    "legal_balls_bowled": 0.0,
+    "overs_completed": 0.0,
+    "current_run_rate": 0.0,
+    "target_runs": 0.0,
+    "runs_needed": 0.0,
+    "required_run_rate": 0.0,
+    "rrr_crr_differential": 0.0,
+    "runs_last_6_balls": 0.0,
+    "wickets_last_6_balls": 0.0,
+    "runs_last_12_balls": 0.0,
+    "wickets_last_12_balls": 0.0,
+    "dot_ball_ratio_last_12": 0.0,
+    "boundary_ratio_last_12": 0.0,
+    "current_partnership_runs": 0.0,
+    "current_partnership_balls": 0.0,
+    "current_partnership_run_rate": 0.0,
+    "pre_match_prob_team_a": 0.0,
+    "batter_runs_current_inn": 0.0,
+    "batter_balls_current_inn": 0.0,
+    "batter_strike_rate_current": 0.0,
+    "batter_boundaries_current": 0.0,
+    "batter_dots_current": 0.0,
+    "batter_dot_ratio_current": 0.0,
+    "bowler_legal_balls_current": 0.0,
+    "bowler_overs_current": 0.0,
+    "bowler_runs_conceded_current": 0.0,
+    "bowler_wickets_current": 0.0,
+    "bowler_economy_current": 0.0,
+    "bowler_dots_current": 0.0,
+    "bowler_boundaries_conceded_current": 0.0,
+    "bowler_dot_ratio_current": 0.0,
+    "historical_batter_strike_rate": 0.0,
+    "historical_batter_average": 0.0,
+    "historical_batter_balls_faced": 0.0,
+    "historical_bowler_economy": 0.0,
+    "historical_bowler_strike_rate": 0.0,
+    "historical_bowler_balls_bowled": 0.0,
+    "matchup_balls_prior": 0.0,
+    "matchup_runs_prior": 0.0,
+    "matchup_wickets_prior": 0.0,
+    "matchup_strike_rate_shrunk": 0.0
+  },
+  "matches": [
+    {
+      "match_id": "335982",
+      "deliveries_compared": 225,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "419155",
+      "deliveries_compared": 242,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "501228",
+      "deliveries_compared": 247,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "598027",
+      "deliveries_compared": 251,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "1082591",
+      "deliveries_compared": 248,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "1136620",
+      "deliveries_compared": 241,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "1359507",
+      "deliveries_compared": 252,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "1359544",
+      "deliveries_compared": 248,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "1422131",
+      "deliveries_compared": 256,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "1426274",
+      "deliveries_compared": 253,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    },
+    {
+      "match_id": "1426298",
+      "deliveries_compared": 201,
+      "max_feature_diff": 0.0,
+      "status": "PASS (Exact Parity)"
+    }
+  ]
+}
